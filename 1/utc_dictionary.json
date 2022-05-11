@@ -1,0 +1,5952 @@
+[
+  {
+    "id": "ABIDJAN",
+    "description": "UTC±00:00",
+    "country": "Africa/Abidjan",
+    "utc": {
+      "string": "UTC+00:00",
+      "minutes": "+0",
+      "hours": "+0.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "UTC±00:00",
+    "country": "Africa/Accra",
+    "utc": {
+      "string": "UTC+00:00",
+      "minutes": "+0",
+      "hours": "+0.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "East Africa Time",
+    "country": "Africa/Addis_Ababa",
+    "utc": {
+      "string": "UTC+03:00",
+      "minutes": "+180",
+      "hours": "+3.0"
+    }
+  },
+  {
+    "id": "ALGIERS",
+    "description": "Central European Time",
+    "country": "Africa/Algiers",
+    "utc": {
+      "string": "UTC+01:00",
+      "minutes": "+60",
+      "hours": "+1.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "East Africa Time",
+    "country": "Africa/Asmara",
+    "utc": {
+      "string": "UTC+03:00",
+      "minutes": "+180",
+      "hours": "+3.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Africa/Asmera",
+    "country": "Africa/Asmera",
+    "utc": {
+      "string": "UTC+03:00",
+      "minutes": "+180",
+      "hours": "+3.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "UTC±00:00",
+    "country": "Africa/Bamako",
+    "utc": {
+      "string": "UTC+00:00",
+      "minutes": "+0",
+      "hours": "+0.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "West Africa Time",
+    "country": "Africa/Bangui",
+    "utc": {
+      "string": "UTC+01:00",
+      "minutes": "+60",
+      "hours": "+1.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Greenwich Mean Time",
+    "country": "Africa/Banjul",
+    "utc": {
+      "string": "UTC+00:00",
+      "minutes": "+0",
+      "hours": "+0.0"
+    }
+  },
+  {
+    "id": "BISSAU",
+    "description": "GMT",
+    "country": "Africa/Bissau",
+    "utc": {
+      "string": "UTC+00:00",
+      "minutes": "+0",
+      "hours": "+0.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Africa/Maputo",
+    "country": "Africa/Blantyre",
+    "utc": {
+      "string": "UTC+02:00",
+      "minutes": "+120",
+      "hours": "+2.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Africa/Lagos (page does not exist)",
+    "country": "Africa/Brazzaville",
+    "utc": {
+      "string": "UTC+01:00",
+      "minutes": "+60",
+      "hours": "+1.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Africa/Maputo",
+    "country": "Africa/Bujumbura",
+    "utc": {
+      "string": "UTC+02:00",
+      "minutes": "+120",
+      "hours": "+2.0"
+    }
+  },
+  {
+    "id": "CAIRO",
+    "description": "Africa/Cairo",
+    "country": "Africa/Cairo",
+    "utc": {
+      "string": "UTC+02:00",
+      "minutes": "+120",
+      "hours": "+2.0"
+    }
+  },
+  {
+    "id": "CASABLANCA",
+    "description": "Africa/Casablanca",
+    "country": "Africa/Casablanca",
+    "utc": {
+      "string": "UTC+01:00",
+      "minutes": "+60",
+      "hours": "+1.0"
+    }
+  },
+  {
+    "id": "CEUTA",
+    "description": "Africa/Ceuta",
+    "country": "Africa/Ceuta",
+    "utc": {
+      "string": "UTC+01:00",
+      "minutes": "+60",
+      "hours": "+1.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Africa/Abidjan",
+    "country": "Africa/Conakry",
+    "utc": {
+      "string": "UTC+00:00",
+      "minutes": "+0",
+      "hours": "+0.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Africa/Abidjan",
+    "country": "Africa/Dakar",
+    "utc": {
+      "string": "UTC+00:00",
+      "minutes": "+0",
+      "hours": "+0.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Africa/Nairobi",
+    "country": "Africa/Dar_es_Salaam",
+    "utc": {
+      "string": "UTC+03:00",
+      "minutes": "+180",
+      "hours": "+3.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Africa/Nairobi",
+    "country": "Africa/Djibouti",
+    "utc": {
+      "string": "UTC+03:00",
+      "minutes": "+180",
+      "hours": "+3.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Africa/Lagos (page does not exist)",
+    "country": "Africa/Douala",
+    "utc": {
+      "string": "UTC+01:00",
+      "minutes": "+60",
+      "hours": "+1.0"
+    }
+  },
+  {
+    "id": "EL_AAIUN",
+    "description": "Africa/El Aaiun (page does not exist)",
+    "country": "Africa/El_Aaiun",
+    "utc": {
+      "string": "UTC+01:00",
+      "minutes": "+60",
+      "hours": "+1.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Africa/Abidjan",
+    "country": "Africa/Freetown",
+    "utc": {
+      "string": "UTC+00:00",
+      "minutes": "+0",
+      "hours": "+0.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Africa/Maputo",
+    "country": "Africa/Gaborone",
+    "utc": {
+      "string": "UTC+02:00",
+      "minutes": "+120",
+      "hours": "+2.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Africa/Maputo",
+    "country": "Africa/Harare",
+    "utc": {
+      "string": "UTC+02:00",
+      "minutes": "+120",
+      "hours": "+2.0"
+    }
+  },
+  {
+    "id": "JOHANNESBURG",
+    "description": "Africa/Johannesburg",
+    "country": "Africa/Johannesburg",
+    "utc": {
+      "string": "UTC+02:00",
+      "minutes": "+120",
+      "hours": "+2.0"
+    }
+  },
+  {
+    "id": "JUBA",
+    "description": "Africa/Juba",
+    "country": "Africa/Juba",
+    "utc": {
+      "string": "UTC+02:00",
+      "minutes": "+120",
+      "hours": "+2.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Africa/Nairobi",
+    "country": "Africa/Kampala",
+    "utc": {
+      "string": "UTC+03:00",
+      "minutes": "+180",
+      "hours": "+3.0"
+    }
+  },
+  {
+    "id": "KHARTOUM",
+    "description": "Africa/Khartoum",
+    "country": "Africa/Khartoum",
+    "utc": {
+      "string": "UTC+02:00",
+      "minutes": "+120",
+      "hours": "+2.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Africa/Maputo",
+    "country": "Africa/Kigali",
+    "utc": {
+      "string": "UTC+02:00",
+      "minutes": "+120",
+      "hours": "+2.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Africa/Lagos (page does not exist)",
+    "country": "Africa/Kinshasa",
+    "utc": {
+      "string": "UTC+01:00",
+      "minutes": "+60",
+      "hours": "+1.0"
+    }
+  },
+  {
+    "id": "LAGOS",
+    "description": "Africa/Lagos (page does not exist)",
+    "country": "Africa/Lagos",
+    "utc": {
+      "string": "UTC+01:00",
+      "minutes": "+60",
+      "hours": "+1.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Africa/Lagos (page does not exist)",
+    "country": "Africa/Libreville",
+    "utc": {
+      "string": "UTC+01:00",
+      "minutes": "+60",
+      "hours": "+1.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Africa/Abidjan",
+    "country": "Africa/Lome",
+    "utc": {
+      "string": "UTC+00:00",
+      "minutes": "+0",
+      "hours": "+0.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Africa/Lagos (page does not exist)",
+    "country": "Africa/Luanda",
+    "utc": {
+      "string": "UTC+01:00",
+      "minutes": "+60",
+      "hours": "+1.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Africa/Maputo",
+    "country": "Africa/Lubumbashi",
+    "utc": {
+      "string": "UTC+02:00",
+      "minutes": "+120",
+      "hours": "+2.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Africa/Maputo",
+    "country": "Africa/Lusaka",
+    "utc": {
+      "string": "UTC+02:00",
+      "minutes": "+120",
+      "hours": "+2.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Africa/Lagos (page does not exist)",
+    "country": "Africa/Malabo",
+    "utc": {
+      "string": "UTC+01:00",
+      "minutes": "+60",
+      "hours": "+1.0"
+    }
+  },
+  {
+    "id": "MAPUTO",
+    "description": "Africa/Maputo",
+    "country": "Africa/Maputo",
+    "utc": {
+      "string": "UTC+02:00",
+      "minutes": "+120",
+      "hours": "+2.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Africa/Johannesburg",
+    "country": "Africa/Maseru",
+    "utc": {
+      "string": "UTC+02:00",
+      "minutes": "+120",
+      "hours": "+2.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Africa/Johannesburg",
+    "country": "Africa/Mbabane",
+    "utc": {
+      "string": "UTC+02:00",
+      "minutes": "+120",
+      "hours": "+2.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Africa/Nairobi",
+    "country": "Africa/Mogadishu",
+    "utc": {
+      "string": "UTC+03:00",
+      "minutes": "+180",
+      "hours": "+3.0"
+    }
+  },
+  {
+    "id": "MONROVIA",
+    "description": "Africa/Monrovia",
+    "country": "Africa/Monrovia",
+    "utc": {
+      "string": "UTC+00:00",
+      "minutes": "+0",
+      "hours": "+0.0"
+    }
+  },
+  {
+    "id": "NAIROBI",
+    "description": "East Africa Time",
+    "country": "Africa/Nairobi",
+    "utc": {
+      "string": "UTC+03:00",
+      "minutes": "+180",
+      "hours": "+3.0"
+    }
+  },
+  {
+    "id": "NDJAMENA",
+    "description": "Africa/Ndjamena (page does not exist)",
+    "country": "Africa/Ndjamena",
+    "utc": {
+      "string": "UTC+01:00",
+      "minutes": "+60",
+      "hours": "+1.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Africa/Lagos (page does not exist)",
+    "country": "Africa/Niamey",
+    "utc": {
+      "string": "UTC+01:00",
+      "minutes": "+60",
+      "hours": "+1.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Africa/Abidjan",
+    "country": "Africa/Nouakchott",
+    "utc": {
+      "string": "UTC+00:00",
+      "minutes": "+0",
+      "hours": "+0.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Africa/Abidjan",
+    "country": "Africa/Ouagadougou",
+    "utc": {
+      "string": "UTC+00:00",
+      "minutes": "+0",
+      "hours": "+0.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Africa/Lagos (page does not exist)",
+    "country": "Africa/Porto-Novo",
+    "utc": {
+      "string": "UTC+01:00",
+      "minutes": "+60",
+      "hours": "+1.0"
+    }
+  },
+  {
+    "id": "SAO_TOME",
+    "description": "Africa/Abidjan",
+    "country": "Africa/Sao_Tome",
+    "utc": {
+      "string": "UTC+00:00",
+      "minutes": "+0",
+      "hours": "+0.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Africa/Abidjan",
+    "country": "Africa/Timbuktu",
+    "utc": {
+      "string": "UTC+00:00",
+      "minutes": "+0",
+      "hours": "+0.0"
+    }
+  },
+  {
+    "id": "TRIPOLI",
+    "description": "Africa/Tripoli",
+    "country": "Africa/Tripoli",
+    "utc": {
+      "string": "UTC+02:00",
+      "minutes": "+120",
+      "hours": "+2.0"
+    }
+  },
+  {
+    "id": "TUNIS",
+    "description": "Africa/Tunis",
+    "country": "Africa/Tunis",
+    "utc": {
+      "string": "UTC+01:00",
+      "minutes": "+60",
+      "hours": "+1.0"
+    }
+  },
+  {
+    "id": "WINDHOEK",
+    "description": "Africa/Windhoek",
+    "country": "Africa/Windhoek",
+    "utc": {
+      "string": "UTC+02:00",
+      "minutes": "+120",
+      "hours": "+2.0"
+    }
+  },
+  {
+    "id": "ADAK",
+    "description": "America/Adak",
+    "country": "America/Adak",
+    "utc": {
+      "string": "UTC−10:00",
+      "minutes": "−600",
+      "hours": "−10.0"
+    }
+  },
+  {
+    "id": "ANCHORAGE",
+    "description": "America/Anchorage",
+    "country": "America/Anchorage",
+    "utc": {
+      "string": "UTC−09:00",
+      "minutes": "−540",
+      "hours": "−9.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "America/Port of Spain",
+    "country": "America/Anguilla",
+    "utc": {
+      "string": "UTC−04:00",
+      "minutes": "−240",
+      "hours": "−4.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "America/Port of Spain",
+    "country": "America/Antigua",
+    "utc": {
+      "string": "UTC−04:00",
+      "minutes": "−240",
+      "hours": "−4.0"
+    }
+  },
+  {
+    "id": "ARAGUAINA",
+    "description": "America/Araguaina",
+    "country": "America/Araguaina",
+    "utc": {
+      "string": "UTC−03:00",
+      "minutes": "−180",
+      "hours": "−3.0"
+    }
+  },
+  {
+    "id": "BUENOS_AIRES",
+    "description": "America/Argentina/Buenos Aires",
+    "country": "America/Argentina/Buenos_Aires",
+    "utc": {
+      "string": "UTC−03:00",
+      "minutes": "−180",
+      "hours": "−3.0"
+    }
+  },
+  {
+    "id": "CATAMARCA",
+    "description": "America/Argentina/Catamarca",
+    "country": "America/Argentina/Catamarca",
+    "utc": {
+      "string": "UTC−03:00",
+      "minutes": "−180",
+      "hours": "−3.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "America/Argentina/Catamarca",
+    "country": "America/Argentina/ComodRivadavia",
+    "utc": {
+      "string": "UTC−03:00",
+      "minutes": "−180",
+      "hours": "−3.0"
+    }
+  },
+  {
+    "id": "CORDOBA",
+    "description": "America/Argentina/Cordoba",
+    "country": "America/Argentina/Cordoba",
+    "utc": {
+      "string": "UTC−03:00",
+      "minutes": "−180",
+      "hours": "−3.0"
+    }
+  },
+  {
+    "id": "JUJUY",
+    "description": "America/Argentina/Jujuy",
+    "country": "America/Argentina/Jujuy",
+    "utc": {
+      "string": "UTC−03:00",
+      "minutes": "−180",
+      "hours": "−3.0"
+    }
+  },
+  {
+    "id": "LA_RIOJA",
+    "description": "America/Argentina/La Rioja",
+    "country": "America/Argentina/La_Rioja",
+    "utc": {
+      "string": "UTC−03:00",
+      "minutes": "−180",
+      "hours": "−3.0"
+    }
+  },
+  {
+    "id": "MENDOZA",
+    "description": "America/Argentina/Mendoza",
+    "country": "America/Argentina/Mendoza",
+    "utc": {
+      "string": "UTC−03:00",
+      "minutes": "−180",
+      "hours": "−3.0"
+    }
+  },
+  {
+    "id": "RIO_GALLEGOS",
+    "description": "America/Argentina/Rio Gallegos",
+    "country": "America/Argentina/Rio_Gallegos",
+    "utc": {
+      "string": "UTC−03:00",
+      "minutes": "−180",
+      "hours": "−3.0"
+    }
+  },
+  {
+    "id": "SALTA",
+    "description": "America/Argentina/Salta",
+    "country": "America/Argentina/Salta",
+    "utc": {
+      "string": "UTC−03:00",
+      "minutes": "−180",
+      "hours": "−3.0"
+    }
+  },
+  {
+    "id": "SAN_JUAN",
+    "description": "America/Argentina/San Juan",
+    "country": "America/Argentina/San_Juan",
+    "utc": {
+      "string": "UTC−03:00",
+      "minutes": "−180",
+      "hours": "−3.0"
+    }
+  },
+  {
+    "id": "SAN_LUIS",
+    "description": "America/Argentina/San Luis",
+    "country": "America/Argentina/San_Luis",
+    "utc": {
+      "string": "UTC−03:00",
+      "minutes": "−180",
+      "hours": "−3.0"
+    }
+  },
+  {
+    "id": "TUCUMAN",
+    "description": "America/Argentina/Tucuman",
+    "country": "America/Argentina/Tucuman",
+    "utc": {
+      "string": "UTC−03:00",
+      "minutes": "−180",
+      "hours": "−3.0"
+    }
+  },
+  {
+    "id": "USHUAIA",
+    "description": "America/Argentina/Ushuaia",
+    "country": "America/Argentina/Ushuaia",
+    "utc": {
+      "string": "UTC−03:00",
+      "minutes": "−180",
+      "hours": "−3.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "America/Curacao (page does not exist)",
+    "country": "America/Aruba",
+    "utc": {
+      "string": "UTC−04:00",
+      "minutes": "−240",
+      "hours": "−4.0"
+    }
+  },
+  {
+    "id": "ASUNCION",
+    "description": "America/Asuncion (page does not exist)",
+    "country": "America/Asuncion",
+    "utc": {
+      "string": "UTC−04:00",
+      "minutes": "−240",
+      "hours": "−4.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "America/Atikokan (page does not exist)",
+    "country": "America/Atikokan",
+    "utc": {
+      "string": "UTC−05:00",
+      "minutes": "−300",
+      "hours": "−5.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "America/Adak",
+    "country": "America/Atka",
+    "utc": {
+      "string": "UTC−10:00",
+      "minutes": "−600",
+      "hours": "−10.0"
+    }
+  },
+  {
+    "id": "BAHIA",
+    "description": "America/Bahia",
+    "country": "America/Bahia",
+    "utc": {
+      "string": "UTC−03:00",
+      "minutes": "−180",
+      "hours": "−3.0"
+    }
+  },
+  {
+    "id": "BAHIA_BANDERAS",
+    "description": "America/Bahia Banderas",
+    "country": "America/Bahia_Banderas",
+    "utc": {
+      "string": "UTC−06:00",
+      "minutes": "−360",
+      "hours": "−6.0"
+    }
+  },
+  {
+    "id": "BARBADOS",
+    "description": "America/Barbados (page does not exist)",
+    "country": "America/Barbados",
+    "utc": {
+      "string": "UTC−04:00",
+      "minutes": "−240",
+      "hours": "−4.0"
+    }
+  },
+  {
+    "id": "BELEM",
+    "description": "America/Belem",
+    "country": "America/Belem",
+    "utc": {
+      "string": "UTC−03:00",
+      "minutes": "−180",
+      "hours": "−3.0"
+    }
+  },
+  {
+    "id": "BELIZE",
+    "description": "America/Belize (page does not exist)",
+    "country": "America/Belize",
+    "utc": {
+      "string": "UTC−06:00",
+      "minutes": "−360",
+      "hours": "−6.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "America/Blanc-Sablon (page does not exist)",
+    "country": "America/Blanc-Sablon",
+    "utc": {
+      "string": "UTC−04:00",
+      "minutes": "−240",
+      "hours": "−4.0"
+    }
+  },
+  {
+    "id": "BOA_VISTA",
+    "description": "America/Boa Vista",
+    "country": "America/Boa_Vista",
+    "utc": {
+      "string": "UTC−04:00",
+      "minutes": "−240",
+      "hours": "−4.0"
+    }
+  },
+  {
+    "id": "BOGOTA",
+    "description": "America/Bogota",
+    "country": "America/Bogota",
+    "utc": {
+      "string": "UTC−05:00",
+      "minutes": "−300",
+      "hours": "−5.0"
+    }
+  },
+  {
+    "id": "BOISE",
+    "description": "America/Boise",
+    "country": "America/Boise",
+    "utc": {
+      "string": "UTC−07:00",
+      "minutes": "−420",
+      "hours": "−7.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "America/Argentina/Buenos Aires",
+    "country": "America/Buenos_Aires",
+    "utc": {
+      "string": "UTC−03:00",
+      "minutes": "−180",
+      "hours": "−3.0"
+    }
+  },
+  {
+    "id": "CAMBRIDGE_BAY",
+    "description": "America/Cambridge Bay (page does not exist)",
+    "country": "America/Cambridge_Bay",
+    "utc": {
+      "string": "UTC−07:00",
+      "minutes": "−420",
+      "hours": "−7.0"
+    }
+  },
+  {
+    "id": "CAMPO_GRANDE",
+    "description": "America/Campo Grande",
+    "country": "America/Campo_Grande",
+    "utc": {
+      "string": "UTC−04:00",
+      "minutes": "−240",
+      "hours": "−4.0"
+    }
+  },
+  {
+    "id": "CANCUN",
+    "description": "America/Cancun",
+    "country": "America/Cancun",
+    "utc": {
+      "string": "UTC−05:00",
+      "minutes": "−300",
+      "hours": "−5.0"
+    }
+  },
+  {
+    "id": "CARACAS",
+    "description": "America/Caracas",
+    "country": "America/Caracas",
+    "utc": {
+      "string": "UTC−04:00",
+      "minutes": "−240",
+      "hours": "−4.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "America/Argentina/Catamarca",
+    "country": "America/Catamarca",
+    "utc": {
+      "string": "UTC−03:00",
+      "minutes": "−180",
+      "hours": "−3.0"
+    }
+  },
+  {
+    "id": "CAYENNE",
+    "description": "America/Cayenne (page does not exist)",
+    "country": "America/Cayenne",
+    "utc": {
+      "string": "UTC−03:00",
+      "minutes": "−180",
+      "hours": "−3.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "America/Panama (page does not exist)",
+    "country": "America/Cayman",
+    "utc": {
+      "string": "UTC−05:00",
+      "minutes": "−300",
+      "hours": "−5.0"
+    }
+  },
+  {
+    "id": "CHICAGO",
+    "description": "America/Chicago (page does not exist)",
+    "country": "America/Chicago",
+    "utc": {
+      "string": "UTC−06:00",
+      "minutes": "−360",
+      "hours": "−6.0"
+    }
+  },
+  {
+    "id": "CHIHUAHUA",
+    "description": "America/Chihuahua",
+    "country": "America/Chihuahua",
+    "utc": {
+      "string": "UTC−07:00",
+      "minutes": "−420",
+      "hours": "−7.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "America/Atikokan (page does not exist)",
+    "country": "America/Coral_Harbour",
+    "utc": {
+      "string": "UTC−05:00",
+      "minutes": "−300",
+      "hours": "−5.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "America/Argentina/Cordoba",
+    "country": "America/Cordoba",
+    "utc": {
+      "string": "UTC−03:00",
+      "minutes": "−180",
+      "hours": "−3.0"
+    }
+  },
+  {
+    "id": "COSTA_RICA",
+    "description": "America/Costa Rica",
+    "country": "America/Costa_Rica",
+    "utc": {
+      "string": "UTC−06:00",
+      "minutes": "−360",
+      "hours": "−6.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "America/Creston (page does not exist)",
+    "country": "America/Creston",
+    "utc": {
+      "string": "UTC−07:00",
+      "minutes": "−420",
+      "hours": "−7.0"
+    }
+  },
+  {
+    "id": "CUIABA",
+    "description": "America/Cuiaba",
+    "country": "America/Cuiaba",
+    "utc": {
+      "string": "UTC−04:00",
+      "minutes": "−240",
+      "hours": "−4.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "America/Curacao (page does not exist)",
+    "country": "America/Curacao",
+    "utc": {
+      "string": "UTC−04:00",
+      "minutes": "−240",
+      "hours": "−4.0"
+    }
+  },
+  {
+    "id": "DANMARKSHAVN",
+    "description": "America/Danmarkshavn",
+    "country": "America/Danmarkshavn",
+    "utc": {
+      "string": "UTC+00:00",
+      "minutes": "+0",
+      "hours": "+0.0"
+    }
+  },
+  {
+    "id": "DAWSON",
+    "description": "America/Dawson (page does not exist)",
+    "country": "America/Dawson",
+    "utc": {
+      "string": "UTC−07:00",
+      "minutes": "−420",
+      "hours": "−7.0"
+    }
+  },
+  {
+    "id": "DAWSON_CREEK",
+    "description": "America/Dawson Creek (page does not exist)",
+    "country": "America/Dawson_Creek",
+    "utc": {
+      "string": "UTC−07:00",
+      "minutes": "−420",
+      "hours": "−7.0"
+    }
+  },
+  {
+    "id": "DENVER",
+    "description": "America/Denver (page does not exist)",
+    "country": "America/Denver",
+    "utc": {
+      "string": "UTC−07:00",
+      "minutes": "−420",
+      "hours": "−7.0"
+    }
+  },
+  {
+    "id": "DETROIT",
+    "description": "America/Detroit (page does not exist)",
+    "country": "America/Detroit",
+    "utc": {
+      "string": "UTC−05:00",
+      "minutes": "−300",
+      "hours": "−5.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "America/Port of Spain",
+    "country": "America/Dominica",
+    "utc": {
+      "string": "UTC−04:00",
+      "minutes": "−240",
+      "hours": "−4.0"
+    }
+  },
+  {
+    "id": "EDMONTON",
+    "description": "America/Edmonton",
+    "country": "America/Edmonton",
+    "utc": {
+      "string": "UTC−07:00",
+      "minutes": "−420",
+      "hours": "−7.0"
+    }
+  },
+  {
+    "id": "EIRUNEPE",
+    "description": "America/Eirunepe",
+    "country": "America/Eirunepe",
+    "utc": {
+      "string": "UTC−05:00",
+      "minutes": "−300",
+      "hours": "−5.0"
+    }
+  },
+  {
+    "id": "EL_SALVADOR",
+    "description": "America/El Salvador (page does not exist)",
+    "country": "America/El_Salvador",
+    "utc": {
+      "string": "UTC−06:00",
+      "minutes": "−360",
+      "hours": "−6.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "America/Tijuana",
+    "country": "America/Ensenada",
+    "utc": {
+      "string": "UTC−08:00",
+      "minutes": "−480",
+      "hours": "−8.0"
+    }
+  },
+  {
+    "id": "FORT_NELSON",
+    "description": "America/Fort Nelson (page does not exist)",
+    "country": "America/Fort_Nelson",
+    "utc": {
+      "string": "UTC−07:00",
+      "minutes": "−420",
+      "hours": "−7.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "America/Indiana/Indianapolis (page does not exist)",
+    "country": "America/Fort_Wayne",
+    "utc": {
+      "string": "UTC−05:00",
+      "minutes": "−300",
+      "hours": "−5.0"
+    }
+  },
+  {
+    "id": "FORTALEZA",
+    "description": "America/Fortaleza",
+    "country": "America/Fortaleza",
+    "utc": {
+      "string": "UTC−03:00",
+      "minutes": "−180",
+      "hours": "−3.0"
+    }
+  },
+  {
+    "id": "GLACE_BAY",
+    "description": "America/Glace Bay (page does not exist)",
+    "country": "America/Glace_Bay",
+    "utc": {
+      "string": "UTC−04:00",
+      "minutes": "−240",
+      "hours": "−4.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "America/Godthab",
+    "country": "America/Godthab",
+    "utc": {
+      "string": "UTC−03:00",
+      "minutes": "−180",
+      "hours": "−3.0"
+    }
+  },
+  {
+    "id": "GOOSE_BAY",
+    "description": "America/Goose Bay (page does not exist)",
+    "country": "America/Goose_Bay",
+    "utc": {
+      "string": "UTC−04:00",
+      "minutes": "−240",
+      "hours": "−4.0"
+    }
+  },
+  {
+    "id": "GRAND_TURK",
+    "description": "America/Grand Turk",
+    "country": "America/Grand_Turk",
+    "utc": {
+      "string": "UTC−05:00",
+      "minutes": "−300",
+      "hours": "−5.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "America/Port of Spain",
+    "country": "America/Grenada",
+    "utc": {
+      "string": "UTC−04:00",
+      "minutes": "−240",
+      "hours": "−4.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "America/Port of Spain",
+    "country": "America/Guadeloupe",
+    "utc": {
+      "string": "UTC−04:00",
+      "minutes": "−240",
+      "hours": "−4.0"
+    }
+  },
+  {
+    "id": "GUATEMALA",
+    "description": "America/Guatemala (page does not exist)",
+    "country": "America/Guatemala",
+    "utc": {
+      "string": "UTC−06:00",
+      "minutes": "−360",
+      "hours": "−6.0"
+    }
+  },
+  {
+    "id": "GUAYAQUIL",
+    "description": "America/Guayaquil (page does not exist)",
+    "country": "America/Guayaquil",
+    "utc": {
+      "string": "UTC−05:00",
+      "minutes": "−300",
+      "hours": "−5.0"
+    }
+  },
+  {
+    "id": "GUYANA",
+    "description": "America/Guyana (page does not exist)",
+    "country": "America/Guyana",
+    "utc": {
+      "string": "UTC−04:00",
+      "minutes": "−240",
+      "hours": "−4.0"
+    }
+  },
+  {
+    "id": "HALIFAX",
+    "description": "America/Halifax",
+    "country": "America/Halifax",
+    "utc": {
+      "string": "UTC−04:00",
+      "minutes": "−240",
+      "hours": "−4.0"
+    }
+  },
+  {
+    "id": "HAVANA",
+    "description": "America/Havana (page does not exist)",
+    "country": "America/Havana",
+    "utc": {
+      "string": "UTC−05:00",
+      "minutes": "−300",
+      "hours": "−5.0"
+    }
+  },
+  {
+    "id": "HERMOSILLO",
+    "description": "America/Hermosillo",
+    "country": "America/Hermosillo",
+    "utc": {
+      "string": "UTC−07:00",
+      "minutes": "−420",
+      "hours": "−7.0"
+    }
+  },
+  {
+    "id": "INDIANAPOLIS",
+    "description": "Time in Indiana",
+    "country": "America/Indiana/Indianapolis",
+    "utc": {
+      "string": "UTC−05:00",
+      "minutes": "−300",
+      "hours": "−5.0"
+    }
+  },
+  {
+    "id": "KNOX",
+    "description": "Time in Indiana",
+    "country": "America/Indiana/Knox",
+    "utc": {
+      "string": "UTC−06:00",
+      "minutes": "−360",
+      "hours": "−6.0"
+    }
+  },
+  {
+    "id": "MARENGO",
+    "description": "Time in Indiana",
+    "country": "America/Indiana/Marengo",
+    "utc": {
+      "string": "UTC−05:00",
+      "minutes": "−300",
+      "hours": "−5.0"
+    }
+  },
+  {
+    "id": "PETERSBURG",
+    "description": "Time in Indiana",
+    "country": "America/Indiana/Petersburg",
+    "utc": {
+      "string": "UTC−05:00",
+      "minutes": "−300",
+      "hours": "−5.0"
+    }
+  },
+  {
+    "id": "TELL_CITY",
+    "description": "Time in Indiana",
+    "country": "America/Indiana/Tell_City",
+    "utc": {
+      "string": "UTC−06:00",
+      "minutes": "−360",
+      "hours": "−6.0"
+    }
+  },
+  {
+    "id": "VEVAY",
+    "description": "Time in Indiana",
+    "country": "America/Indiana/Vevay",
+    "utc": {
+      "string": "UTC−05:00",
+      "minutes": "−300",
+      "hours": "−5.0"
+    }
+  },
+  {
+    "id": "VINCENNES",
+    "description": "Time in Indiana",
+    "country": "America/Indiana/Vincennes",
+    "utc": {
+      "string": "UTC−05:00",
+      "minutes": "−300",
+      "hours": "−5.0"
+    }
+  },
+  {
+    "id": "WINAMAC",
+    "description": "Time in Indiana",
+    "country": "America/Indiana/Winamac",
+    "utc": {
+      "string": "UTC−05:00",
+      "minutes": "−300",
+      "hours": "−5.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "America/Indiana/Indianapolis (page does not exist)",
+    "country": "America/Indianapolis",
+    "utc": {
+      "string": "UTC−05:00",
+      "minutes": "−300",
+      "hours": "−5.0"
+    }
+  },
+  {
+    "id": "INUVIK",
+    "description": "America/Inuvik (page does not exist)",
+    "country": "America/Inuvik",
+    "utc": {
+      "string": "UTC−07:00",
+      "minutes": "−420",
+      "hours": "−7.0"
+    }
+  },
+  {
+    "id": "IQALUIT",
+    "description": "America/Iqaluit (page does not exist)",
+    "country": "America/Iqaluit",
+    "utc": {
+      "string": "UTC−05:00",
+      "minutes": "−300",
+      "hours": "−5.0"
+    }
+  },
+  {
+    "id": "JAMAICA",
+    "description": "America/Jamaica",
+    "country": "America/Jamaica",
+    "utc": {
+      "string": "UTC−05:00",
+      "minutes": "−300",
+      "hours": "−5.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "America/Argentina/Jujuy",
+    "country": "America/Jujuy",
+    "utc": {
+      "string": "UTC−03:00",
+      "minutes": "−180",
+      "hours": "−3.0"
+    }
+  },
+  {
+    "id": "JUNEAU",
+    "description": "America/Juneau",
+    "country": "America/Juneau",
+    "utc": {
+      "string": "UTC−09:00",
+      "minutes": "−540",
+      "hours": "−9.0"
+    }
+  },
+  {
+    "id": "LOUISVILLE",
+    "description": "Time in Kentucky",
+    "country": "America/Kentucky/Louisville",
+    "utc": {
+      "string": "UTC−05:00",
+      "minutes": "−300",
+      "hours": "−5.0"
+    }
+  },
+  {
+    "id": "MONTICELLO",
+    "description": "Time in Kentucky",
+    "country": "America/Kentucky/Monticello",
+    "utc": {
+      "string": "UTC−05:00",
+      "minutes": "−300",
+      "hours": "−5.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "America/Indiana/Knox (page does not exist)",
+    "country": "America/Knox_IN",
+    "utc": {
+      "string": "UTC−06:00",
+      "minutes": "−360",
+      "hours": "−6.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "America/Curacao (page does not exist)",
+    "country": "America/Kralendijk",
+    "utc": {
+      "string": "UTC−04:00",
+      "minutes": "−240",
+      "hours": "−4.0"
+    }
+  },
+  {
+    "id": "LA_PAZ",
+    "description": "America/La Paz (page does not exist)",
+    "country": "America/La_Paz",
+    "utc": {
+      "string": "UTC−04:00",
+      "minutes": "−240",
+      "hours": "−4.0"
+    }
+  },
+  {
+    "id": "LIMA",
+    "description": "America/Lima",
+    "country": "America/Lima",
+    "utc": {
+      "string": "UTC−05:00",
+      "minutes": "−300",
+      "hours": "−5.0"
+    }
+  },
+  {
+    "id": "LOS_ANGELES",
+    "description": "America/Los Angeles",
+    "country": "America/Los_Angeles",
+    "utc": {
+      "string": "UTC−08:00",
+      "minutes": "−480",
+      "hours": "−8.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "America/Kentucky/Louisville (page does not exist)",
+    "country": "America/Louisville",
+    "utc": {
+      "string": "UTC−05:00",
+      "minutes": "−300",
+      "hours": "−5.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "America/Curacao (page does not exist)",
+    "country": "America/Lower_Princes",
+    "utc": {
+      "string": "UTC−04:00",
+      "minutes": "−240",
+      "hours": "−4.0"
+    }
+  },
+  {
+    "id": "MACEIO",
+    "description": "America/Maceio",
+    "country": "America/Maceio",
+    "utc": {
+      "string": "UTC−03:00",
+      "minutes": "−180",
+      "hours": "−3.0"
+    }
+  },
+  {
+    "id": "MANAGUA",
+    "description": "America/Managua (page does not exist)",
+    "country": "America/Managua",
+    "utc": {
+      "string": "UTC−06:00",
+      "minutes": "−360",
+      "hours": "−6.0"
+    }
+  },
+  {
+    "id": "MANAUS",
+    "description": "America/Manaus",
+    "country": "America/Manaus",
+    "utc": {
+      "string": "UTC−04:00",
+      "minutes": "−240",
+      "hours": "−4.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "America/Port of Spain",
+    "country": "America/Marigot",
+    "utc": {
+      "string": "UTC−04:00",
+      "minutes": "−240",
+      "hours": "−4.0"
+    }
+  },
+  {
+    "id": "MARTINIQUE",
+    "description": "America/Martinique (page does not exist)",
+    "country": "America/Martinique",
+    "utc": {
+      "string": "UTC−04:00",
+      "minutes": "−240",
+      "hours": "−4.0"
+    }
+  },
+  {
+    "id": "MATAMOROS",
+    "description": "America/Matamoros",
+    "country": "America/Matamoros",
+    "utc": {
+      "string": "UTC−06:00",
+      "minutes": "−360",
+      "hours": "−6.0"
+    }
+  },
+  {
+    "id": "MAZATLAN",
+    "description": "America/Mazatlan",
+    "country": "America/Mazatlan",
+    "utc": {
+      "string": "UTC−07:00",
+      "minutes": "−420",
+      "hours": "−7.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "America/Argentina/Mendoza",
+    "country": "America/Mendoza",
+    "utc": {
+      "string": "UTC−03:00",
+      "minutes": "−180",
+      "hours": "−3.0"
+    }
+  },
+  {
+    "id": "MENOMINEE",
+    "description": "America/Menominee (page does not exist)",
+    "country": "America/Menominee",
+    "utc": {
+      "string": "UTC−06:00",
+      "minutes": "−360",
+      "hours": "−6.0"
+    }
+  },
+  {
+    "id": "MERIDA",
+    "description": "America/Merida",
+    "country": "America/Merida",
+    "utc": {
+      "string": "UTC−06:00",
+      "minutes": "−360",
+      "hours": "−6.0"
+    }
+  },
+  {
+    "id": "METLAKATLA",
+    "description": "America/Metlakatla",
+    "country": "America/Metlakatla",
+    "utc": {
+      "string": "UTC−09:00",
+      "minutes": "−540",
+      "hours": "−9.0"
+    }
+  },
+  {
+    "id": "MEXICO_CITY",
+    "description": "America/Mexico City",
+    "country": "America/Mexico_City",
+    "utc": {
+      "string": "UTC−06:00",
+      "minutes": "−360",
+      "hours": "−6.0"
+    }
+  },
+  {
+    "id": "MIQUELON",
+    "description": "America/Miquelon (page does not exist)",
+    "country": "America/Miquelon",
+    "utc": {
+      "string": "UTC−03:00",
+      "minutes": "−180",
+      "hours": "−3.0"
+    }
+  },
+  {
+    "id": "MONCTON",
+    "description": "America/Moncton (page does not exist)",
+    "country": "America/Moncton",
+    "utc": {
+      "string": "UTC−04:00",
+      "minutes": "−240",
+      "hours": "−4.0"
+    }
+  },
+  {
+    "id": "MONTERREY",
+    "description": "America/Monterrey",
+    "country": "America/Monterrey",
+    "utc": {
+      "string": "UTC−06:00",
+      "minutes": "−360",
+      "hours": "−6.0"
+    }
+  },
+  {
+    "id": "MONTEVIDEO",
+    "description": "America/Montevideo",
+    "country": "America/Montevideo",
+    "utc": {
+      "string": "UTC−03:00",
+      "minutes": "−180",
+      "hours": "−3.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "America/Toronto",
+    "country": "America/Montreal",
+    "utc": {
+      "string": "UTC−05:00",
+      "minutes": "−300",
+      "hours": "−5.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "America/Port of Spain",
+    "country": "America/Montserrat",
+    "utc": {
+      "string": "UTC−04:00",
+      "minutes": "−240",
+      "hours": "−4.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "America/Nassau (page does not exist)",
+    "country": "America/Nassau",
+    "utc": {
+      "string": "UTC−05:00",
+      "minutes": "−300",
+      "hours": "−5.0"
+    }
+  },
+  {
+    "id": "NEW_YORK",
+    "description": "America/New York",
+    "country": "America/New_York",
+    "utc": {
+      "string": "UTC−05:00",
+      "minutes": "−300",
+      "hours": "−5.0"
+    }
+  },
+  {
+    "id": "NIPIGON",
+    "description": "America/Nipigon (page does not exist)",
+    "country": "America/Nipigon",
+    "utc": {
+      "string": "UTC−05:00",
+      "minutes": "−300",
+      "hours": "−5.0"
+    }
+  },
+  {
+    "id": "NOME",
+    "description": "America/Nome",
+    "country": "America/Nome",
+    "utc": {
+      "string": "UTC−09:00",
+      "minutes": "−540",
+      "hours": "−9.0"
+    }
+  },
+  {
+    "id": "NORONHA",
+    "description": "America/Noronha",
+    "country": "America/Noronha",
+    "utc": {
+      "string": "UTC−02:00",
+      "minutes": "−120",
+      "hours": "−2.0"
+    }
+  },
+  {
+    "id": "BEULAH",
+    "description": "America/North Dakota/Beulah (page does not exist)",
+    "country": "America/North_Dakota/Beulah",
+    "utc": {
+      "string": "UTC−06:00",
+      "minutes": "−360",
+      "hours": "−6.0"
+    }
+  },
+  {
+    "id": "CENTER",
+    "description": "America/North Dakota/Center (page does not exist)",
+    "country": "America/North_Dakota/Center",
+    "utc": {
+      "string": "UTC−06:00",
+      "minutes": "−360",
+      "hours": "−6.0"
+    }
+  },
+  {
+    "id": "NEW_SALEM",
+    "description": "America/North Dakota/New Salem (page does not exist)",
+    "country": "America/North_Dakota/New_Salem",
+    "utc": {
+      "string": "UTC−06:00",
+      "minutes": "−360",
+      "hours": "−6.0"
+    }
+  },
+  {
+    "id": "NUUK",
+    "description": "America/Nuuk (page does not exist)",
+    "country": "America/Nuuk",
+    "utc": {
+      "string": "UTC−03:00",
+      "minutes": "−180",
+      "hours": "−3.0"
+    }
+  },
+  {
+    "id": "OJINAGA",
+    "description": "America/Ojinaga",
+    "country": "America/Ojinaga",
+    "utc": {
+      "string": "UTC−07:00",
+      "minutes": "−420",
+      "hours": "−7.0"
+    }
+  },
+  {
+    "id": "PANAMA",
+    "description": "America/Panama (page does not exist)",
+    "country": "America/Panama",
+    "utc": {
+      "string": "UTC−05:00",
+      "minutes": "−300",
+      "hours": "−5.0"
+    }
+  },
+  {
+    "id": "PANGNIRTUNG",
+    "description": "America/Pangnirtung (page does not exist)",
+    "country": "America/Pangnirtung",
+    "utc": {
+      "string": "UTC−05:00",
+      "minutes": "−300",
+      "hours": "−5.0"
+    }
+  },
+  {
+    "id": "PARAMARIBO",
+    "description": "America/Paramaribo (page does not exist)",
+    "country": "America/Paramaribo",
+    "utc": {
+      "string": "UTC−03:00",
+      "minutes": "−180",
+      "hours": "−3.0"
+    }
+  },
+  {
+    "id": "PHOENIX",
+    "description": "America/Phoenix",
+    "country": "America/Phoenix",
+    "utc": {
+      "string": "UTC−07:00",
+      "minutes": "−420",
+      "hours": "−7.0"
+    }
+  },
+  {
+    "id": "PORT-AU-PRINCE",
+    "description": "America/Port-au-Prince (page does not exist)",
+    "country": "America/Port-au-Prince",
+    "utc": {
+      "string": "UTC−05:00",
+      "minutes": "−300",
+      "hours": "−5.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "America/Port of Spain",
+    "country": "America/Port_of_Spain",
+    "utc": {
+      "string": "UTC−04:00",
+      "minutes": "−240",
+      "hours": "−4.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "America/Rio Branco",
+    "country": "America/Porto_Acre",
+    "utc": {
+      "string": "UTC−05:00",
+      "minutes": "−300",
+      "hours": "−5.0"
+    }
+  },
+  {
+    "id": "PORTO_VELHO",
+    "description": "America/Porto Velho",
+    "country": "America/Porto_Velho",
+    "utc": {
+      "string": "UTC−04:00",
+      "minutes": "−240",
+      "hours": "−4.0"
+    }
+  },
+  {
+    "id": "PUERTO_RICO",
+    "description": "America/Puerto Rico (page does not exist)",
+    "country": "America/Puerto_Rico",
+    "utc": {
+      "string": "UTC−04:00",
+      "minutes": "−240",
+      "hours": "−4.0"
+    }
+  },
+  {
+    "id": "PUNTA_ARENAS",
+    "description": "America/Punta Arenas",
+    "country": "America/Punta_Arenas",
+    "utc": {
+      "string": "UTC−03:00",
+      "minutes": "−180",
+      "hours": "−3.0"
+    }
+  },
+  {
+    "id": "RAINY_RIVER",
+    "description": "America/Rainy River (page does not exist)",
+    "country": "America/Rainy_River",
+    "utc": {
+      "string": "UTC−06:00",
+      "minutes": "−360",
+      "hours": "−6.0"
+    }
+  },
+  {
+    "id": "RANKIN_INLET",
+    "description": "America/Rankin Inlet (page does not exist)",
+    "country": "America/Rankin_Inlet",
+    "utc": {
+      "string": "UTC−06:00",
+      "minutes": "−360",
+      "hours": "−6.0"
+    }
+  },
+  {
+    "id": "RECIFE",
+    "description": "America/Recife",
+    "country": "America/Recife",
+    "utc": {
+      "string": "UTC−03:00",
+      "minutes": "−180",
+      "hours": "−3.0"
+    }
+  },
+  {
+    "id": "REGINA",
+    "description": "America/Regina",
+    "country": "America/Regina",
+    "utc": {
+      "string": "UTC−06:00",
+      "minutes": "−360",
+      "hours": "−6.0"
+    }
+  },
+  {
+    "id": "RESOLUTE",
+    "description": "America/Resolute (page does not exist)",
+    "country": "America/Resolute",
+    "utc": {
+      "string": "UTC−06:00",
+      "minutes": "−360",
+      "hours": "−6.0"
+    }
+  },
+  {
+    "id": "RIO_BRANCO",
+    "description": "America/Rio Branco",
+    "country": "America/Rio_Branco",
+    "utc": {
+      "string": "UTC−05:00",
+      "minutes": "−300",
+      "hours": "−5.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "America/Argentina/Cordoba",
+    "country": "America/Rosario",
+    "utc": {
+      "string": "UTC−03:00",
+      "minutes": "−180",
+      "hours": "−3.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "America/Tijuana",
+    "country": "America/Santa_Isabel",
+    "utc": {
+      "string": "UTC−08:00",
+      "minutes": "−480",
+      "hours": "−8.0"
+    }
+  },
+  {
+    "id": "SANTAREM",
+    "description": "America/Santarem",
+    "country": "America/Santarem",
+    "utc": {
+      "string": "UTC−03:00",
+      "minutes": "−180",
+      "hours": "−3.0"
+    }
+  },
+  {
+    "id": "SANTIAGO",
+    "description": "America/Santiago",
+    "country": "America/Santiago",
+    "utc": {
+      "string": "UTC−04:00",
+      "minutes": "−240",
+      "hours": "−4.0"
+    }
+  },
+  {
+    "id": "SANTO_DOMINGO",
+    "description": "America/Santo Domingo (page does not exist)",
+    "country": "America/Santo_Domingo",
+    "utc": {
+      "string": "UTC−04:00",
+      "minutes": "−240",
+      "hours": "−4.0"
+    }
+  },
+  {
+    "id": "SAO_PAULO",
+    "description": "America/Sao Paulo",
+    "country": "America/Sao_Paulo",
+    "utc": {
+      "string": "UTC−03:00",
+      "minutes": "−180",
+      "hours": "−3.0"
+    }
+  },
+  {
+    "id": "SCORESBYSUND",
+    "description": "America/Scoresbysund",
+    "country": "America/Scoresbysund",
+    "utc": {
+      "string": "UTC−01:00",
+      "minutes": "−60",
+      "hours": "−1.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "America/Denver (page does not exist)",
+    "country": "America/Shiprock",
+    "utc": {
+      "string": "UTC−07:00",
+      "minutes": "−420",
+      "hours": "−7.0"
+    }
+  },
+  {
+    "id": "SITKA",
+    "description": "America/Sitka",
+    "country": "America/Sitka",
+    "utc": {
+      "string": "UTC−09:00",
+      "minutes": "−540",
+      "hours": "−9.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "America/Port of Spain",
+    "country": "America/St_Barthelemy",
+    "utc": {
+      "string": "UTC−04:00",
+      "minutes": "−240",
+      "hours": "−4.0"
+    }
+  },
+  {
+    "id": "ST_JOHNS",
+    "description": "America/St Johns",
+    "country": "America/St_Johns",
+    "utc": {
+      "string": "UTC−03:30",
+      "minutes": "−210",
+      "hours": "−3.5"
+    }
+  },
+  {
+    "id": null,
+    "description": "America/Port of Spain",
+    "country": "America/St_Kitts",
+    "utc": {
+      "string": "UTC−04:00",
+      "minutes": "−240",
+      "hours": "−4.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "America/Port of Spain",
+    "country": "America/St_Lucia",
+    "utc": {
+      "string": "UTC−04:00",
+      "minutes": "−240",
+      "hours": "−4.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "America/Port of Spain",
+    "country": "America/St_Thomas",
+    "utc": {
+      "string": "UTC−04:00",
+      "minutes": "−240",
+      "hours": "−4.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "America/Port of Spain",
+    "country": "America/St_Vincent",
+    "utc": {
+      "string": "UTC−04:00",
+      "minutes": "−240",
+      "hours": "−4.0"
+    }
+  },
+  {
+    "id": "SWIFT_CURRENT",
+    "description": "America/Swift Current (page does not exist)",
+    "country": "America/Swift_Current",
+    "utc": {
+      "string": "UTC−06:00",
+      "minutes": "−360",
+      "hours": "−6.0"
+    }
+  },
+  {
+    "id": "TEGUCIGALPA",
+    "description": "America/Tegucigalpa (page does not exist)",
+    "country": "America/Tegucigalpa",
+    "utc": {
+      "string": "UTC−06:00",
+      "minutes": "−360",
+      "hours": "−6.0"
+    }
+  },
+  {
+    "id": "THULE",
+    "description": "America/Thule",
+    "country": "America/Thule",
+    "utc": {
+      "string": "UTC−04:00",
+      "minutes": "−240",
+      "hours": "−4.0"
+    }
+  },
+  {
+    "id": "THUNDER_BAY",
+    "description": "America/Thunder Bay (page does not exist)",
+    "country": "America/Thunder_Bay",
+    "utc": {
+      "string": "UTC−05:00",
+      "minutes": "−300",
+      "hours": "−5.0"
+    }
+  },
+  {
+    "id": "TIJUANA",
+    "description": "America/Tijuana",
+    "country": "America/Tijuana",
+    "utc": {
+      "string": "UTC−08:00",
+      "minutes": "−480",
+      "hours": "−8.0"
+    }
+  },
+  {
+    "id": "TORONTO",
+    "description": "America/Toronto",
+    "country": "America/Toronto",
+    "utc": {
+      "string": "UTC−05:00",
+      "minutes": "−300",
+      "hours": "−5.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "America/Port of Spain",
+    "country": "America/Tortola",
+    "utc": {
+      "string": "UTC−04:00",
+      "minutes": "−240",
+      "hours": "−4.0"
+    }
+  },
+  {
+    "id": "VANCOUVER",
+    "description": "America/Vancouver",
+    "country": "America/Vancouver",
+    "utc": {
+      "string": "UTC−08:00",
+      "minutes": "−480",
+      "hours": "−8.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "America/Port of Spain",
+    "country": "America/Virgin",
+    "utc": {
+      "string": "UTC−04:00",
+      "minutes": "−240",
+      "hours": "−4.0"
+    }
+  },
+  {
+    "id": "WHITEHORSE",
+    "description": "America/Whitehorse",
+    "country": "America/Whitehorse",
+    "utc": {
+      "string": "UTC−07:00",
+      "minutes": "−420",
+      "hours": "−7.0"
+    }
+  },
+  {
+    "id": "WINNIPEG",
+    "description": "America/Winnipeg",
+    "country": "America/Winnipeg",
+    "utc": {
+      "string": "UTC−06:00",
+      "minutes": "−360",
+      "hours": "−6.0"
+    }
+  },
+  {
+    "id": "YAKUTAT",
+    "description": "America/Yakutat",
+    "country": "America/Yakutat",
+    "utc": {
+      "string": "UTC−09:00",
+      "minutes": "−540",
+      "hours": "−9.0"
+    }
+  },
+  {
+    "id": "YELLOWKNIFE",
+    "description": "America/Yellowknife (page does not exist)",
+    "country": "America/Yellowknife",
+    "utc": {
+      "string": "UTC−07:00",
+      "minutes": "−420",
+      "hours": "−7.0"
+    }
+  },
+  {
+    "id": "CASEY",
+    "description": "Antarctica/Casey",
+    "country": "Antarctica/Casey",
+    "utc": {
+      "string": "UTC+11:00",
+      "minutes": "+660",
+      "hours": "+11.0"
+    }
+  },
+  {
+    "id": "DAVIS",
+    "description": "Antarctica/Davis",
+    "country": "Antarctica/Davis",
+    "utc": {
+      "string": "UTC+07:00",
+      "minutes": "+420",
+      "hours": "+7.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Antarctica/DumontDUrville",
+    "country": "Antarctica/DumontDUrville",
+    "utc": {
+      "string": "UTC+10:00",
+      "minutes": "+600",
+      "hours": "+10.0"
+    }
+  },
+  {
+    "id": "MACQUARIE",
+    "description": "Antarctica/Macquarie",
+    "country": "Antarctica/Macquarie",
+    "utc": {
+      "string": "UTC+10:00",
+      "minutes": "+600",
+      "hours": "+10.0"
+    }
+  },
+  {
+    "id": "MAWSON",
+    "description": "Antarctica/Mawson",
+    "country": "Antarctica/Mawson",
+    "utc": {
+      "string": "UTC+05:00",
+      "minutes": "+300",
+      "hours": "+5.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Pacific/Auckland",
+    "country": "Antarctica/McMurdo",
+    "utc": {
+      "string": "UTC+12:00",
+      "minutes": "+720",
+      "hours": "+12.0"
+    }
+  },
+  {
+    "id": "PALMER",
+    "description": "Antarctica/Palmer",
+    "country": "Antarctica/Palmer",
+    "utc": {
+      "string": "UTC−03:00",
+      "minutes": "−180",
+      "hours": "−3.0"
+    }
+  },
+  {
+    "id": "ROTHERA",
+    "description": "Antarctica/Rothera",
+    "country": "Antarctica/Rothera",
+    "utc": {
+      "string": "UTC−03:00",
+      "minutes": "−180",
+      "hours": "−3.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Pacific/Auckland",
+    "country": "Antarctica/South_Pole",
+    "utc": {
+      "string": "UTC+12:00",
+      "minutes": "+720",
+      "hours": "+12.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Antarctica/Syowa",
+    "country": "Antarctica/Syowa",
+    "utc": {
+      "string": "UTC+03:00",
+      "minutes": "+180",
+      "hours": "+3.0"
+    }
+  },
+  {
+    "id": "TROLL",
+    "description": "Antarctica/Troll",
+    "country": "Antarctica/Troll",
+    "utc": {
+      "string": "UTC+00:00",
+      "minutes": "+0",
+      "hours": "+0.0"
+    }
+  },
+  {
+    "id": "VOSTOK",
+    "description": "Antarctica/Vostok",
+    "country": "Antarctica/Vostok",
+    "utc": {
+      "string": "UTC+06:00",
+      "minutes": "+360",
+      "hours": "+6.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Europe/Oslo",
+    "country": "Arctic/Longyearbyen",
+    "utc": {
+      "string": "UTC+01:00",
+      "minutes": "+60",
+      "hours": "+1.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Asia/Riyadh",
+    "country": "Asia/Aden",
+    "utc": {
+      "string": "UTC+03:00",
+      "minutes": "+180",
+      "hours": "+3.0"
+    }
+  },
+  {
+    "id": "ALMATY",
+    "description": "Asia/Almaty",
+    "country": "Asia/Almaty",
+    "utc": {
+      "string": "UTC+06:00",
+      "minutes": "+360",
+      "hours": "+6.0"
+    }
+  },
+  {
+    "id": "AMMAN",
+    "description": "Asia/Amman",
+    "country": "Asia/Amman",
+    "utc": {
+      "string": "UTC+02:00",
+      "minutes": "+120",
+      "hours": "+2.0"
+    }
+  },
+  {
+    "id": "ANADYR",
+    "description": "Asia/Anadyr",
+    "country": "Asia/Anadyr",
+    "utc": {
+      "string": "UTC+12:00",
+      "minutes": "+720",
+      "hours": "+12.0"
+    }
+  },
+  {
+    "id": "AQTAU",
+    "description": "Asia/Aqtau",
+    "country": "Asia/Aqtau",
+    "utc": {
+      "string": "UTC+05:00",
+      "minutes": "+300",
+      "hours": "+5.0"
+    }
+  },
+  {
+    "id": "AQTOBE",
+    "description": "Asia/Aqtobe",
+    "country": "Asia/Aqtobe",
+    "utc": {
+      "string": "UTC+05:00",
+      "minutes": "+300",
+      "hours": "+5.0"
+    }
+  },
+  {
+    "id": "ASHGABAT",
+    "description": "Asia/Ashgabat",
+    "country": "Asia/Ashgabat",
+    "utc": {
+      "string": "UTC+05:00",
+      "minutes": "+300",
+      "hours": "+5.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Asia/Ashgabat",
+    "country": "Asia/Ashkhabad",
+    "utc": {
+      "string": "UTC+05:00",
+      "minutes": "+300",
+      "hours": "+5.0"
+    }
+  },
+  {
+    "id": "ATYRAU",
+    "description": "Asia/Atyrau",
+    "country": "Asia/Atyrau",
+    "utc": {
+      "string": "UTC+05:00",
+      "minutes": "+300",
+      "hours": "+5.0"
+    }
+  },
+  {
+    "id": "BAGHDAD",
+    "description": "Asia/Baghdad",
+    "country": "Asia/Baghdad",
+    "utc": {
+      "string": "UTC+03:00",
+      "minutes": "+180",
+      "hours": "+3.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Asia/Qatar",
+    "country": "Asia/Bahrain",
+    "utc": {
+      "string": "UTC+03:00",
+      "minutes": "+180",
+      "hours": "+3.0"
+    }
+  },
+  {
+    "id": "BAKU",
+    "description": "Asia/Baku",
+    "country": "Asia/Baku",
+    "utc": {
+      "string": "UTC+04:00",
+      "minutes": "+240",
+      "hours": "+4.0"
+    }
+  },
+  {
+    "id": "BANGKOK",
+    "description": "Asia/Bangkok",
+    "country": "Asia/Bangkok",
+    "utc": {
+      "string": "UTC+07:00",
+      "minutes": "+420",
+      "hours": "+7.0"
+    }
+  },
+  {
+    "id": "BARNAUL",
+    "description": "Asia/Barnaul",
+    "country": "Asia/Barnaul",
+    "utc": {
+      "string": "UTC+07:00",
+      "minutes": "+420",
+      "hours": "+7.0"
+    }
+  },
+  {
+    "id": "BEIRUT",
+    "description": "Asia/Beirut",
+    "country": "Asia/Beirut",
+    "utc": {
+      "string": "UTC+02:00",
+      "minutes": "+120",
+      "hours": "+2.0"
+    }
+  },
+  {
+    "id": "BISHKEK",
+    "description": "Asia/Bishkek",
+    "country": "Asia/Bishkek",
+    "utc": {
+      "string": "UTC+06:00",
+      "minutes": "+360",
+      "hours": "+6.0"
+    }
+  },
+  {
+    "id": "BRUNEI",
+    "description": "Asia/Brunei",
+    "country": "Asia/Brunei",
+    "utc": {
+      "string": "UTC+08:00",
+      "minutes": "+480",
+      "hours": "+8.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Asia/Kolkata",
+    "country": "Asia/Calcutta",
+    "utc": {
+      "string": "UTC+05:30",
+      "minutes": "+330",
+      "hours": "+5.5"
+    }
+  },
+  {
+    "id": "CHITA",
+    "description": "Asia/Chita",
+    "country": "Asia/Chita",
+    "utc": {
+      "string": "UTC+09:00",
+      "minutes": "+540",
+      "hours": "+9.0"
+    }
+  },
+  {
+    "id": "CHOIBALSAN",
+    "description": "Asia/Choibalsan",
+    "country": "Asia/Choibalsan",
+    "utc": {
+      "string": "UTC+08:00",
+      "minutes": "+480",
+      "hours": "+8.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Asia/Shanghai",
+    "country": "Asia/Chongqing",
+    "utc": {
+      "string": "UTC+08:00",
+      "minutes": "+480",
+      "hours": "+8.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Asia/Shanghai",
+    "country": "Asia/Chungking",
+    "utc": {
+      "string": "UTC+08:00",
+      "minutes": "+480",
+      "hours": "+8.0"
+    }
+  },
+  {
+    "id": "COLOMBO",
+    "description": "Asia/Colombo",
+    "country": "Asia/Colombo",
+    "utc": {
+      "string": "UTC+05:30",
+      "minutes": "+330",
+      "hours": "+5.5"
+    }
+  },
+  {
+    "id": null,
+    "description": "Asia/Dhaka",
+    "country": "Asia/Dacca",
+    "utc": {
+      "string": "UTC+06:00",
+      "minutes": "+360",
+      "hours": "+6.0"
+    }
+  },
+  {
+    "id": "DAMASCUS",
+    "description": "Asia/Damascus",
+    "country": "Asia/Damascus",
+    "utc": {
+      "string": "UTC+02:00",
+      "minutes": "+120",
+      "hours": "+2.0"
+    }
+  },
+  {
+    "id": "DHAKA",
+    "description": "Asia/Dhaka",
+    "country": "Asia/Dhaka",
+    "utc": {
+      "string": "UTC+06:00",
+      "minutes": "+360",
+      "hours": "+6.0"
+    }
+  },
+  {
+    "id": "DILI",
+    "description": "Asia/Dili",
+    "country": "Asia/Dili",
+    "utc": {
+      "string": "UTC+09:00",
+      "minutes": "+540",
+      "hours": "+9.0"
+    }
+  },
+  {
+    "id": "DUBAI",
+    "description": "Asia/Dubai",
+    "country": "Asia/Dubai",
+    "utc": {
+      "string": "UTC+04:00",
+      "minutes": "+240",
+      "hours": "+4.0"
+    }
+  },
+  {
+    "id": "DUSHANBE",
+    "description": "Asia/Dushanbe",
+    "country": "Asia/Dushanbe",
+    "utc": {
+      "string": "UTC+05:00",
+      "minutes": "+300",
+      "hours": "+5.0"
+    }
+  },
+  {
+    "id": "FAMAGUSTA",
+    "description": "Asia/Famagusta",
+    "country": "Asia/Famagusta",
+    "utc": {
+      "string": "UTC+02:00",
+      "minutes": "+120",
+      "hours": "+2.0"
+    }
+  },
+  {
+    "id": "GAZA",
+    "description": "Asia/Gaza",
+    "country": "Asia/Gaza",
+    "utc": {
+      "string": "UTC+02:00",
+      "minutes": "+120",
+      "hours": "+2.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Asia/Shanghai",
+    "country": "Asia/Harbin",
+    "utc": {
+      "string": "UTC+08:00",
+      "minutes": "+480",
+      "hours": "+8.0"
+    }
+  },
+  {
+    "id": "HEBRON",
+    "description": "Asia/Hebron",
+    "country": "Asia/Hebron",
+    "utc": {
+      "string": "UTC+02:00",
+      "minutes": "+120",
+      "hours": "+2.0"
+    }
+  },
+  {
+    "id": "HO_CHI_MINH",
+    "description": "Asia/Ho Chi Minh",
+    "country": "Asia/Ho_Chi_Minh",
+    "utc": {
+      "string": "UTC+07:00",
+      "minutes": "+420",
+      "hours": "+7.0"
+    }
+  },
+  {
+    "id": "HONG_KONG",
+    "description": "Asia/Hong Kong",
+    "country": "Asia/Hong_Kong",
+    "utc": {
+      "string": "UTC+08:00",
+      "minutes": "+480",
+      "hours": "+8.0"
+    }
+  },
+  {
+    "id": "HOVD",
+    "description": "Asia/Hovd",
+    "country": "Asia/Hovd",
+    "utc": {
+      "string": "UTC+07:00",
+      "minutes": "+420",
+      "hours": "+7.0"
+    }
+  },
+  {
+    "id": "IRKUTSK",
+    "description": "Asia/Irkutsk",
+    "country": "Asia/Irkutsk",
+    "utc": {
+      "string": "UTC+08:00",
+      "minutes": "+480",
+      "hours": "+8.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Europe/Istanbul",
+    "country": "Asia/Istanbul",
+    "utc": {
+      "string": "UTC+03:00",
+      "minutes": "+180",
+      "hours": "+3.0"
+    }
+  },
+  {
+    "id": "JAKARTA",
+    "description": "Asia/Jakarta",
+    "country": "Asia/Jakarta",
+    "utc": {
+      "string": "UTC+07:00",
+      "minutes": "+420",
+      "hours": "+7.0"
+    }
+  },
+  {
+    "id": "JAYAPURA",
+    "description": "Asia/Jayapura",
+    "country": "Asia/Jayapura",
+    "utc": {
+      "string": "UTC+09:00",
+      "minutes": "+540",
+      "hours": "+9.0"
+    }
+  },
+  {
+    "id": "JERUSALEM",
+    "description": "Asia/Jerusalem",
+    "country": "Asia/Jerusalem",
+    "utc": {
+      "string": "UTC+02:00",
+      "minutes": "+120",
+      "hours": "+2.0"
+    }
+  },
+  {
+    "id": "KABUL",
+    "description": "Asia/Kabul",
+    "country": "Asia/Kabul",
+    "utc": {
+      "string": "UTC+04:30",
+      "minutes": "+270",
+      "hours": "+4.5"
+    }
+  },
+  {
+    "id": "KAMCHATKA",
+    "description": "Asia/Kamchatka",
+    "country": "Asia/Kamchatka",
+    "utc": {
+      "string": "UTC+12:00",
+      "minutes": "+720",
+      "hours": "+12.0"
+    }
+  },
+  {
+    "id": "KARACHI",
+    "description": "Asia/Karachi",
+    "country": "Asia/Karachi",
+    "utc": {
+      "string": "UTC+05:00",
+      "minutes": "+300",
+      "hours": "+5.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Asia/Urumqi",
+    "country": "Asia/Kashgar",
+    "utc": {
+      "string": "UTC+06:00",
+      "minutes": "+360",
+      "hours": "+6.0"
+    }
+  },
+  {
+    "id": "KATHMANDU",
+    "description": "Asia/Kathmandu",
+    "country": "Asia/Kathmandu",
+    "utc": {
+      "string": "UTC+05:45",
+      "minutes": "+345",
+      "hours": "+5.75"
+    }
+  },
+  {
+    "id": null,
+    "description": "Asia/Kathmandu",
+    "country": "Asia/Katmandu",
+    "utc": {
+      "string": "UTC+05:45",
+      "minutes": "+345",
+      "hours": "+5.75"
+    }
+  },
+  {
+    "id": "KHANDYGA",
+    "description": "Asia/Khandyga",
+    "country": "Asia/Khandyga",
+    "utc": {
+      "string": "UTC+09:00",
+      "minutes": "+540",
+      "hours": "+9.0"
+    }
+  },
+  {
+    "id": "KOLKATA",
+    "description": "Asia/Kolkata",
+    "country": "Asia/Kolkata",
+    "utc": {
+      "string": "UTC+05:30",
+      "minutes": "+330",
+      "hours": "+5.5"
+    }
+  },
+  {
+    "id": "KRASNOYARSK",
+    "description": "Asia/Krasnoyarsk",
+    "country": "Asia/Krasnoyarsk",
+    "utc": {
+      "string": "UTC+07:00",
+      "minutes": "+420",
+      "hours": "+7.0"
+    }
+  },
+  {
+    "id": "KUALA_LUMPUR",
+    "description": "Asia/Kuala Lumpur",
+    "country": "Asia/Kuala_Lumpur",
+    "utc": {
+      "string": "UTC+08:00",
+      "minutes": "+480",
+      "hours": "+8.0"
+    }
+  },
+  {
+    "id": "KUCHING",
+    "description": "Asia/Kuching",
+    "country": "Asia/Kuching",
+    "utc": {
+      "string": "UTC+08:00",
+      "minutes": "+480",
+      "hours": "+8.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Asia/Riyadh",
+    "country": "Asia/Kuwait",
+    "utc": {
+      "string": "UTC+03:00",
+      "minutes": "+180",
+      "hours": "+3.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Asia/Macau",
+    "country": "Asia/Macao",
+    "utc": {
+      "string": "UTC+08:00",
+      "minutes": "+480",
+      "hours": "+8.0"
+    }
+  },
+  {
+    "id": "MACAU",
+    "description": "Asia/Macau",
+    "country": "Asia/Macau",
+    "utc": {
+      "string": "UTC+08:00",
+      "minutes": "+480",
+      "hours": "+8.0"
+    }
+  },
+  {
+    "id": "MAGADAN",
+    "description": "Asia/Magadan",
+    "country": "Asia/Magadan",
+    "utc": {
+      "string": "UTC+11:00",
+      "minutes": "+660",
+      "hours": "+11.0"
+    }
+  },
+  {
+    "id": "MAKASSAR",
+    "description": "Asia/Makassar",
+    "country": "Asia/Makassar",
+    "utc": {
+      "string": "UTC+08:00",
+      "minutes": "+480",
+      "hours": "+8.0"
+    }
+  },
+  {
+    "id": "MANILA",
+    "description": "Asia/Manila",
+    "country": "Asia/Manila",
+    "utc": {
+      "string": "UTC+08:00",
+      "minutes": "+480",
+      "hours": "+8.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Asia/Dubai",
+    "country": "Asia/Muscat",
+    "utc": {
+      "string": "UTC+04:00",
+      "minutes": "+240",
+      "hours": "+4.0"
+    }
+  },
+  {
+    "id": "NICOSIA",
+    "description": "Asia/Nicosia",
+    "country": "Asia/Nicosia",
+    "utc": {
+      "string": "UTC+02:00",
+      "minutes": "+120",
+      "hours": "+2.0"
+    }
+  },
+  {
+    "id": "NOVOKUZNETSK",
+    "description": "Asia/Novokuznetsk",
+    "country": "Asia/Novokuznetsk",
+    "utc": {
+      "string": "UTC+07:00",
+      "minutes": "+420",
+      "hours": "+7.0"
+    }
+  },
+  {
+    "id": "NOVOSIBIRSK",
+    "description": "Asia/Novosibirsk",
+    "country": "Asia/Novosibirsk",
+    "utc": {
+      "string": "UTC+07:00",
+      "minutes": "+420",
+      "hours": "+7.0"
+    }
+  },
+  {
+    "id": "OMSK",
+    "description": "Asia/Omsk",
+    "country": "Asia/Omsk",
+    "utc": {
+      "string": "UTC+06:00",
+      "minutes": "+360",
+      "hours": "+6.0"
+    }
+  },
+  {
+    "id": "ORAL",
+    "description": "Asia/Oral",
+    "country": "Asia/Oral",
+    "utc": {
+      "string": "UTC+05:00",
+      "minutes": "+300",
+      "hours": "+5.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Asia/Bangkok",
+    "country": "Asia/Phnom_Penh",
+    "utc": {
+      "string": "UTC+07:00",
+      "minutes": "+420",
+      "hours": "+7.0"
+    }
+  },
+  {
+    "id": "PONTIANAK",
+    "description": "Asia/Pontianak",
+    "country": "Asia/Pontianak",
+    "utc": {
+      "string": "UTC+07:00",
+      "minutes": "+420",
+      "hours": "+7.0"
+    }
+  },
+  {
+    "id": "PYONGYANG",
+    "description": "Asia/Pyongyang",
+    "country": "Asia/Pyongyang",
+    "utc": {
+      "string": "UTC+09:00",
+      "minutes": "+540",
+      "hours": "+9.0"
+    }
+  },
+  {
+    "id": "QATAR",
+    "description": "Asia/Qatar",
+    "country": "Asia/Qatar",
+    "utc": {
+      "string": "UTC+03:00",
+      "minutes": "+180",
+      "hours": "+3.0"
+    }
+  },
+  {
+    "id": "QOSTANAY",
+    "description": "Asia/Qostanay",
+    "country": "Asia/Qostanay",
+    "utc": {
+      "string": "UTC+06:00",
+      "minutes": "+360",
+      "hours": "+6.0"
+    }
+  },
+  {
+    "id": "QYZYLORDA",
+    "description": "Asia/Qyzylorda",
+    "country": "Asia/Qyzylorda",
+    "utc": {
+      "string": "UTC+05:00",
+      "minutes": "+300",
+      "hours": "+5.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Asia/Rangoon",
+    "country": "Asia/Rangoon",
+    "utc": {
+      "string": "UTC+06:30",
+      "minutes": "+390",
+      "hours": "+6.5"
+    }
+  },
+  {
+    "id": "RIYADH",
+    "description": "Asia/Riyadh",
+    "country": "Asia/Riyadh",
+    "utc": {
+      "string": "UTC+03:00",
+      "minutes": "+180",
+      "hours": "+3.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Asia/Ho Chi Minh",
+    "country": "Asia/Saigon",
+    "utc": {
+      "string": "UTC+07:00",
+      "minutes": "+420",
+      "hours": "+7.0"
+    }
+  },
+  {
+    "id": "SAKHALIN",
+    "description": "Asia/Sakhalin",
+    "country": "Asia/Sakhalin",
+    "utc": {
+      "string": "UTC+11:00",
+      "minutes": "+660",
+      "hours": "+11.0"
+    }
+  },
+  {
+    "id": "SAMARKAND",
+    "description": "Asia/Samarkand",
+    "country": "Asia/Samarkand",
+    "utc": {
+      "string": "UTC+05:00",
+      "minutes": "+300",
+      "hours": "+5.0"
+    }
+  },
+  {
+    "id": "SEOUL",
+    "description": "Asia/Seoul",
+    "country": "Asia/Seoul",
+    "utc": {
+      "string": "UTC+09:00",
+      "minutes": "+540",
+      "hours": "+9.0"
+    }
+  },
+  {
+    "id": "SHANGHAI",
+    "description": "Asia/Shanghai",
+    "country": "Asia/Shanghai",
+    "utc": {
+      "string": "UTC+08:00",
+      "minutes": "+480",
+      "hours": "+8.0"
+    }
+  },
+  {
+    "id": "SINGAPORE",
+    "description": "Asia/Singapore",
+    "country": "Asia/Singapore",
+    "utc": {
+      "string": "UTC+08:00",
+      "minutes": "+480",
+      "hours": "+8.0"
+    }
+  },
+  {
+    "id": "SREDNEKOLYMSK",
+    "description": "Asia/Srednekolymsk",
+    "country": "Asia/Srednekolymsk",
+    "utc": {
+      "string": "UTC+11:00",
+      "minutes": "+660",
+      "hours": "+11.0"
+    }
+  },
+  {
+    "id": "TAIPEI",
+    "description": "Asia/Taipei",
+    "country": "Asia/Taipei",
+    "utc": {
+      "string": "UTC+08:00",
+      "minutes": "+480",
+      "hours": "+8.0"
+    }
+  },
+  {
+    "id": "TASHKENT",
+    "description": "Asia/Tashkent",
+    "country": "Asia/Tashkent",
+    "utc": {
+      "string": "UTC+05:00",
+      "minutes": "+300",
+      "hours": "+5.0"
+    }
+  },
+  {
+    "id": "TBILISI",
+    "description": "Asia/Tbilisi",
+    "country": "Asia/Tbilisi",
+    "utc": {
+      "string": "UTC+04:00",
+      "minutes": "+240",
+      "hours": "+4.0"
+    }
+  },
+  {
+    "id": "TEHRAN",
+    "description": "Asia/Tehran",
+    "country": "Asia/Tehran",
+    "utc": {
+      "string": "UTC+03:30",
+      "minutes": "+210",
+      "hours": "+3.5"
+    }
+  },
+  {
+    "id": null,
+    "description": "Asia/Jerusalem",
+    "country": "Asia/Tel_Aviv",
+    "utc": {
+      "string": "UTC+02:00",
+      "minutes": "+120",
+      "hours": "+2.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Asia/Thimphu",
+    "country": "Asia/Thimbu",
+    "utc": {
+      "string": "UTC+06:00",
+      "minutes": "+360",
+      "hours": "+6.0"
+    }
+  },
+  {
+    "id": "THIMPHU",
+    "description": "Asia/Thimphu",
+    "country": "Asia/Thimphu",
+    "utc": {
+      "string": "UTC+06:00",
+      "minutes": "+360",
+      "hours": "+6.0"
+    }
+  },
+  {
+    "id": "TOKYO",
+    "description": "Asia/Tokyo",
+    "country": "Asia/Tokyo",
+    "utc": {
+      "string": "UTC+09:00",
+      "minutes": "+540",
+      "hours": "+9.0"
+    }
+  },
+  {
+    "id": "TOMSK",
+    "description": "Asia/Tomsk",
+    "country": "Asia/Tomsk",
+    "utc": {
+      "string": "UTC+07:00",
+      "minutes": "+420",
+      "hours": "+7.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Asia/Makassar",
+    "country": "Asia/Ujung_Pandang",
+    "utc": {
+      "string": "UTC+08:00",
+      "minutes": "+480",
+      "hours": "+8.0"
+    }
+  },
+  {
+    "id": "ULAANBAATAR",
+    "description": "Asia/Ulaanbaatar",
+    "country": "Asia/Ulaanbaatar",
+    "utc": {
+      "string": "UTC+08:00",
+      "minutes": "+480",
+      "hours": "+8.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Asia/Ulaanbaatar",
+    "country": "Asia/Ulan_Bator",
+    "utc": {
+      "string": "UTC+08:00",
+      "minutes": "+480",
+      "hours": "+8.0"
+    }
+  },
+  {
+    "id": "URUMQI",
+    "description": "Asia/Urumqi",
+    "country": "Asia/Urumqi",
+    "utc": {
+      "string": "UTC+06:00",
+      "minutes": "+360",
+      "hours": "+6.0"
+    }
+  },
+  {
+    "id": "UST-NERA",
+    "description": "Asia/Ust-Nera",
+    "country": "Asia/Ust-Nera",
+    "utc": {
+      "string": "UTC+10:00",
+      "minutes": "+600",
+      "hours": "+10.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Asia/Bangkok",
+    "country": "Asia/Vientiane",
+    "utc": {
+      "string": "UTC+07:00",
+      "minutes": "+420",
+      "hours": "+7.0"
+    }
+  },
+  {
+    "id": "VLADIVOSTOK",
+    "description": "Asia/Vladivostok",
+    "country": "Asia/Vladivostok",
+    "utc": {
+      "string": "UTC+10:00",
+      "minutes": "+600",
+      "hours": "+10.0"
+    }
+  },
+  {
+    "id": "YAKUTSK",
+    "description": "Asia/Yakutsk",
+    "country": "Asia/Yakutsk",
+    "utc": {
+      "string": "UTC+09:00",
+      "minutes": "+540",
+      "hours": "+9.0"
+    }
+  },
+  {
+    "id": "YANGON",
+    "description": "Asia/Yangon",
+    "country": "Asia/Yangon",
+    "utc": {
+      "string": "UTC+06:30",
+      "minutes": "+390",
+      "hours": "+6.5"
+    }
+  },
+  {
+    "id": "YEKATERINBURG",
+    "description": "Asia/Yekaterinburg",
+    "country": "Asia/Yekaterinburg",
+    "utc": {
+      "string": "UTC+05:00",
+      "minutes": "+300",
+      "hours": "+5.0"
+    }
+  },
+  {
+    "id": "YEREVAN",
+    "description": "Asia/Yerevan",
+    "country": "Asia/Yerevan",
+    "utc": {
+      "string": "UTC+04:00",
+      "minutes": "+240",
+      "hours": "+4.0"
+    }
+  },
+  {
+    "id": "AZORES",
+    "description": "Atlantic/Azores",
+    "country": "Atlantic/Azores",
+    "utc": {
+      "string": "UTC−01:00",
+      "minutes": "−60",
+      "hours": "−1.0"
+    }
+  },
+  {
+    "id": "BERMUDA",
+    "description": "Atlantic/Bermuda",
+    "country": "Atlantic/Bermuda",
+    "utc": {
+      "string": "UTC−04:00",
+      "minutes": "−240",
+      "hours": "−4.0"
+    }
+  },
+  {
+    "id": "CANARY",
+    "description": "Atlantic/Canary",
+    "country": "Atlantic/Canary",
+    "utc": {
+      "string": "UTC+00:00",
+      "minutes": "+0",
+      "hours": "+0.0"
+    }
+  },
+  {
+    "id": "CAPE_VERDE",
+    "description": "Atlantic/Cape Verde",
+    "country": "Atlantic/Cape_Verde",
+    "utc": {
+      "string": "UTC−01:00",
+      "minutes": "−60",
+      "hours": "−1.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Atlantic/Faroe",
+    "country": "Atlantic/Faeroe",
+    "utc": {
+      "string": "UTC+00:00",
+      "minutes": "+0",
+      "hours": "+0.0"
+    }
+  },
+  {
+    "id": "FAROE",
+    "description": "Atlantic/Faroe",
+    "country": "Atlantic/Faroe",
+    "utc": {
+      "string": "UTC+00:00",
+      "minutes": "+0",
+      "hours": "+0.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Europe/Oslo",
+    "country": "Atlantic/Jan_Mayen",
+    "utc": {
+      "string": "UTC+01:00",
+      "minutes": "+60",
+      "hours": "+1.0"
+    }
+  },
+  {
+    "id": "MADEIRA",
+    "description": "Atlantic/Madeira",
+    "country": "Atlantic/Madeira",
+    "utc": {
+      "string": "UTC+00:00",
+      "minutes": "+0",
+      "hours": "+0.0"
+    }
+  },
+  {
+    "id": "REYKJAVIK",
+    "description": "Atlantic/Reykjavik",
+    "country": "Atlantic/Reykjavik",
+    "utc": {
+      "string": "UTC+00:00",
+      "minutes": "+0",
+      "hours": "+0.0"
+    }
+  },
+  {
+    "id": "SOUTH_GEORGIA",
+    "description": "Atlantic/South Georgia",
+    "country": "Atlantic/South_Georgia",
+    "utc": {
+      "string": "UTC−02:00",
+      "minutes": "−120",
+      "hours": "−2.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Africa/Abidjan",
+    "country": "Atlantic/St_Helena",
+    "utc": {
+      "string": "UTC+00:00",
+      "minutes": "+0",
+      "hours": "+0.0"
+    }
+  },
+  {
+    "id": "STANLEY",
+    "description": "Atlantic/Stanley",
+    "country": "Atlantic/Stanley",
+    "utc": {
+      "string": "UTC−03:00",
+      "minutes": "−180",
+      "hours": "−3.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Australia/Sydney",
+    "country": "Australia/ACT",
+    "utc": {
+      "string": "UTC+10:00",
+      "minutes": "+600",
+      "hours": "+10.0"
+    }
+  },
+  {
+    "id": "ADELAIDE",
+    "description": "Australia/Adelaide",
+    "country": "Australia/Adelaide",
+    "utc": {
+      "string": "UTC+09:30",
+      "minutes": "+570",
+      "hours": "+9.5"
+    }
+  },
+  {
+    "id": "BRISBANE",
+    "description": "Australia/Brisbane",
+    "country": "Australia/Brisbane",
+    "utc": {
+      "string": "UTC+10:00",
+      "minutes": "+600",
+      "hours": "+10.0"
+    }
+  },
+  {
+    "id": "BROKEN_HILL",
+    "description": "Australia/Broken Hill",
+    "country": "Australia/Broken_Hill",
+    "utc": {
+      "string": "UTC+09:30",
+      "minutes": "+570",
+      "hours": "+9.5"
+    }
+  },
+  {
+    "id": null,
+    "description": "Australia/Sydney",
+    "country": "Australia/Canberra",
+    "utc": {
+      "string": "UTC+10:00",
+      "minutes": "+600",
+      "hours": "+10.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Australia/Currie",
+    "country": "Australia/Currie",
+    "utc": {
+      "string": "UTC+10:00",
+      "minutes": "+600",
+      "hours": "+10.0"
+    }
+  },
+  {
+    "id": "DARWIN",
+    "description": "Australia/Darwin",
+    "country": "Australia/Darwin",
+    "utc": {
+      "string": "UTC+09:30",
+      "minutes": "+570",
+      "hours": "+9.5"
+    }
+  },
+  {
+    "id": "EUCLA",
+    "description": "Australia/Eucla",
+    "country": "Australia/Eucla",
+    "utc": {
+      "string": "UTC+08:45",
+      "minutes": "+525",
+      "hours": "+8.75"
+    }
+  },
+  {
+    "id": "HOBART",
+    "description": "Australia/Hobart",
+    "country": "Australia/Hobart",
+    "utc": {
+      "string": "UTC+10:00",
+      "minutes": "+600",
+      "hours": "+10.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Australia/Lord Howe",
+    "country": "Australia/LHI",
+    "utc": {
+      "string": "UTC+10:30",
+      "minutes": "+630",
+      "hours": "+10.5"
+    }
+  },
+  {
+    "id": "LINDEMAN",
+    "description": "Australia/Lindeman",
+    "country": "Australia/Lindeman",
+    "utc": {
+      "string": "UTC+10:00",
+      "minutes": "+600",
+      "hours": "+10.0"
+    }
+  },
+  {
+    "id": "LORD_HOWE",
+    "description": "Australia/Lord Howe",
+    "country": "Australia/Lord_Howe",
+    "utc": {
+      "string": "UTC+10:30",
+      "minutes": "+630",
+      "hours": "+10.5"
+    }
+  },
+  {
+    "id": "MELBOURNE",
+    "description": "Australia/Melbourne",
+    "country": "Australia/Melbourne",
+    "utc": {
+      "string": "UTC+10:00",
+      "minutes": "+600",
+      "hours": "+10.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Australia/Darwin",
+    "country": "Australia/North",
+    "utc": {
+      "string": "UTC+09:30",
+      "minutes": "+570",
+      "hours": "+9.5"
+    }
+  },
+  {
+    "id": null,
+    "description": "Australia/Sydney",
+    "country": "Australia/NSW",
+    "utc": {
+      "string": "UTC+10:00",
+      "minutes": "+600",
+      "hours": "+10.0"
+    }
+  },
+  {
+    "id": "PERTH",
+    "description": "Australia/Perth",
+    "country": "Australia/Perth",
+    "utc": {
+      "string": "UTC+08:00",
+      "minutes": "+480",
+      "hours": "+8.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Australia/Brisbane",
+    "country": "Australia/Queensland",
+    "utc": {
+      "string": "UTC+10:00",
+      "minutes": "+600",
+      "hours": "+10.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Australia/Adelaide",
+    "country": "Australia/South",
+    "utc": {
+      "string": "UTC+09:30",
+      "minutes": "+570",
+      "hours": "+9.5"
+    }
+  },
+  {
+    "id": "SYDNEY",
+    "description": "Australia/Sydney",
+    "country": "Australia/Sydney",
+    "utc": {
+      "string": "UTC+10:00",
+      "minutes": "+600",
+      "hours": "+10.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Australia/Hobart",
+    "country": "Australia/Tasmania",
+    "utc": {
+      "string": "UTC+10:00",
+      "minutes": "+600",
+      "hours": "+10.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Australia/Melbourne",
+    "country": "Australia/Victoria",
+    "utc": {
+      "string": "UTC+10:00",
+      "minutes": "+600",
+      "hours": "+10.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Australia/Perth",
+    "country": "Australia/West",
+    "utc": {
+      "string": "UTC+08:00",
+      "minutes": "+480",
+      "hours": "+8.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Australia/Broken Hill",
+    "country": "Australia/Yancowinna",
+    "utc": {
+      "string": "UTC+09:30",
+      "minutes": "+570",
+      "hours": "+9.5"
+    }
+  },
+  {
+    "id": null,
+    "description": "America/Rio Branco",
+    "country": "Brazil/Acre",
+    "utc": {
+      "string": "UTC−05:00",
+      "minutes": "−300",
+      "hours": "−5.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "America/Noronha",
+    "country": "Brazil/DeNoronha",
+    "utc": {
+      "string": "UTC−02:00",
+      "minutes": "−120",
+      "hours": "−2.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "America/Sao Paulo",
+    "country": "Brazil/East",
+    "utc": {
+      "string": "UTC−03:00",
+      "minutes": "−180",
+      "hours": "−3.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "America/Manaus",
+    "country": "Brazil/West",
+    "utc": {
+      "string": "UTC−04:00",
+      "minutes": "−240",
+      "hours": "−4.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "America/Halifax",
+    "country": "Canada/Atlantic",
+    "utc": {
+      "string": "UTC−04:00",
+      "minutes": "−240",
+      "hours": "−4.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "America/Winnipeg",
+    "country": "Canada/Central",
+    "utc": {
+      "string": "UTC−06:00",
+      "minutes": "−360",
+      "hours": "−6.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "America/Toronto",
+    "country": "Canada/Eastern",
+    "utc": {
+      "string": "UTC−05:00",
+      "minutes": "−300",
+      "hours": "−5.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "America/Edmonton",
+    "country": "Canada/Mountain",
+    "utc": {
+      "string": "UTC−07:00",
+      "minutes": "−420",
+      "hours": "−7.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "America/St Johns",
+    "country": "Canada/Newfoundland",
+    "utc": {
+      "string": "UTC−03:30",
+      "minutes": "−210",
+      "hours": "−3.5"
+    }
+  },
+  {
+    "id": null,
+    "description": "America/Vancouver",
+    "country": "Canada/Pacific",
+    "utc": {
+      "string": "UTC−08:00",
+      "minutes": "−480",
+      "hours": "−8.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "America/Regina",
+    "country": "Canada/Saskatchewan",
+    "utc": {
+      "string": "UTC−06:00",
+      "minutes": "−360",
+      "hours": "−6.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "America/Whitehorse",
+    "country": "Canada/Yukon",
+    "utc": {
+      "string": "UTC−07:00",
+      "minutes": "−420",
+      "hours": "−7.0"
+    }
+  },
+  {
+    "id": "CET",
+    "description": "Central European Time",
+    "country": "CET",
+    "utc": {
+      "string": "UTC+01:00",
+      "minutes": "+60",
+      "hours": "+1.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "America/Santiago",
+    "country": "Chile/Continental",
+    "utc": {
+      "string": "UTC−04:00",
+      "minutes": "−240",
+      "hours": "−4.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Pacific/Easter",
+    "country": "Chile/EasterIsland",
+    "utc": {
+      "string": "UTC−06:00",
+      "minutes": "−360",
+      "hours": "−6.0"
+    }
+  },
+  {
+    "id": "CST6CDT",
+    "description": "CST6CDT",
+    "country": "CST6CDT",
+    "utc": {
+      "string": "UTC−06:00",
+      "minutes": "−360",
+      "hours": "−6.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "America/Havana (page does not exist)",
+    "country": "Cuba",
+    "utc": {
+      "string": "UTC−05:00",
+      "minutes": "−300",
+      "hours": "−5.0"
+    }
+  },
+  {
+    "id": "EET",
+    "description": "Eastern European Time",
+    "country": "EET",
+    "utc": {
+      "string": "UTC+02:00",
+      "minutes": "+120",
+      "hours": "+2.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Africa/Cairo",
+    "country": "Egypt",
+    "utc": {
+      "string": "UTC+02:00",
+      "minutes": "+120",
+      "hours": "+2.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Europe/Dublin",
+    "country": "Eire",
+    "utc": {
+      "string": "UTC+01:00",
+      "minutes": "+60",
+      "hours": "+1.0"
+    }
+  },
+  {
+    "id": "EST",
+    "description": "Eastern Standard Time (North America)",
+    "country": "EST",
+    "utc": {
+      "string": "UTC−05:00",
+      "minutes": "−300",
+      "hours": "−5.0"
+    }
+  },
+  {
+    "id": "EST5EDT",
+    "description": "EST5EDT",
+    "country": "EST5EDT",
+    "utc": {
+      "string": "UTC−05:00",
+      "minutes": "−300",
+      "hours": "−5.0"
+    }
+  },
+  {
+    "id": "GMT",
+    "description": "Coordinated Universal Time",
+    "country": "Etc/GMT",
+    "utc": {
+      "string": "UTC+00:00",
+      "minutes": "+0",
+      "hours": "+0.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Coordinated Universal Time",
+    "country": "Etc/GMT+0",
+    "utc": {
+      "string": "UTC+00:00",
+      "minutes": "+0",
+      "hours": "+0.0"
+    }
+  },
+  {
+    "id": "GMT1",
+    "description": "UTC−01:00",
+    "country": "Etc/GMT+1",
+    "utc": {
+      "string": "UTC−01:00",
+      "minutes": "−60",
+      "hours": "−1.0"
+    }
+  },
+  {
+    "id": "GMT10",
+    "description": "UTC−10:00",
+    "country": "Etc/GMT+10",
+    "utc": {
+      "string": "UTC−10:00",
+      "minutes": "−600",
+      "hours": "−10.0"
+    }
+  },
+  {
+    "id": "GMT11",
+    "description": "UTC−11:00",
+    "country": "Etc/GMT+11",
+    "utc": {
+      "string": "UTC−11:00",
+      "minutes": "−660",
+      "hours": "−11.0"
+    }
+  },
+  {
+    "id": "GMT12",
+    "description": "UTC−12:00",
+    "country": "Etc/GMT+12",
+    "utc": {
+      "string": "UTC−12:00",
+      "minutes": "−720",
+      "hours": "−12.0"
+    }
+  },
+  {
+    "id": "GMT2",
+    "description": "UTC−02:00",
+    "country": "Etc/GMT+2",
+    "utc": {
+      "string": "UTC−02:00",
+      "minutes": "−120",
+      "hours": "−2.0"
+    }
+  },
+  {
+    "id": "GMT3",
+    "description": "UTC−03:00",
+    "country": "Etc/GMT+3",
+    "utc": {
+      "string": "UTC−03:00",
+      "minutes": "−180",
+      "hours": "−3.0"
+    }
+  },
+  {
+    "id": "GMT4",
+    "description": "UTC−04:00",
+    "country": "Etc/GMT+4",
+    "utc": {
+      "string": "UTC−04:00",
+      "minutes": "−240",
+      "hours": "−4.0"
+    }
+  },
+  {
+    "id": "GMT5",
+    "description": "UTC−05:00",
+    "country": "Etc/GMT+5",
+    "utc": {
+      "string": "UTC−05:00",
+      "minutes": "−300",
+      "hours": "−5.0"
+    }
+  },
+  {
+    "id": "GMT6",
+    "description": "UTC−06:00",
+    "country": "Etc/GMT+6",
+    "utc": {
+      "string": "UTC−06:00",
+      "minutes": "−360",
+      "hours": "−6.0"
+    }
+  },
+  {
+    "id": "GMT7",
+    "description": "UTC−07:00",
+    "country": "Etc/GMT+7",
+    "utc": {
+      "string": "UTC−07:00",
+      "minutes": "−420",
+      "hours": "−7.0"
+    }
+  },
+  {
+    "id": "GMT8",
+    "description": "UTC−08:00",
+    "country": "Etc/GMT+8",
+    "utc": {
+      "string": "UTC−08:00",
+      "minutes": "−480",
+      "hours": "−8.0"
+    }
+  },
+  {
+    "id": "GMT9",
+    "description": "UTC−09:00",
+    "country": "Etc/GMT+9",
+    "utc": {
+      "string": "UTC−09:00",
+      "minutes": "−540",
+      "hours": "−9.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Coordinated Universal Time",
+    "country": "Etc/GMT-0",
+    "utc": {
+      "string": "UTC+00:00",
+      "minutes": "+0",
+      "hours": "+0.0"
+    }
+  },
+  {
+    "id": "GMT-1",
+    "description": "UTC+01:00",
+    "country": "Etc/GMT-1",
+    "utc": {
+      "string": "UTC+01:00",
+      "minutes": "+60",
+      "hours": "+1.0"
+    }
+  },
+  {
+    "id": "GMT-10",
+    "description": "UTC+10:00",
+    "country": "Etc/GMT-10",
+    "utc": {
+      "string": "UTC+10:00",
+      "minutes": "+600",
+      "hours": "+10.0"
+    }
+  },
+  {
+    "id": "GMT-11",
+    "description": "UTC+11:00",
+    "country": "Etc/GMT-11",
+    "utc": {
+      "string": "UTC+11:00",
+      "minutes": "+660",
+      "hours": "+11.0"
+    }
+  },
+  {
+    "id": "GMT-12",
+    "description": "UTC+12:00",
+    "country": "Etc/GMT-12",
+    "utc": {
+      "string": "UTC+12:00",
+      "minutes": "+720",
+      "hours": "+12.0"
+    }
+  },
+  {
+    "id": "GMT-13",
+    "description": "UTC+13:00",
+    "country": "Etc/GMT-13",
+    "utc": {
+      "string": "UTC+13:00",
+      "minutes": "+780",
+      "hours": "+13.0"
+    }
+  },
+  {
+    "id": "GMT-14",
+    "description": "UTC+14:00",
+    "country": "Etc/GMT-14",
+    "utc": {
+      "string": "UTC+14:00",
+      "minutes": "+840",
+      "hours": "+14.0"
+    }
+  },
+  {
+    "id": "GMT-2",
+    "description": "UTC+02:00",
+    "country": "Etc/GMT-2",
+    "utc": {
+      "string": "UTC+02:00",
+      "minutes": "+120",
+      "hours": "+2.0"
+    }
+  },
+  {
+    "id": "GMT-3",
+    "description": "UTC+03:00",
+    "country": "Etc/GMT-3",
+    "utc": {
+      "string": "UTC+03:00",
+      "minutes": "+180",
+      "hours": "+3.0"
+    }
+  },
+  {
+    "id": "GMT-4",
+    "description": "UTC+04:00",
+    "country": "Etc/GMT-4",
+    "utc": {
+      "string": "UTC+04:00",
+      "minutes": "+240",
+      "hours": "+4.0"
+    }
+  },
+  {
+    "id": "GMT-5",
+    "description": "UTC+05:00",
+    "country": "Etc/GMT-5",
+    "utc": {
+      "string": "UTC+05:00",
+      "minutes": "+300",
+      "hours": "+5.0"
+    }
+  },
+  {
+    "id": "GMT-6",
+    "description": "UTC+06:00",
+    "country": "Etc/GMT-6",
+    "utc": {
+      "string": "UTC+06:00",
+      "minutes": "+360",
+      "hours": "+6.0"
+    }
+  },
+  {
+    "id": "GMT-7",
+    "description": "UTC+07:00",
+    "country": "Etc/GMT-7",
+    "utc": {
+      "string": "UTC+07:00",
+      "minutes": "+420",
+      "hours": "+7.0"
+    }
+  },
+  {
+    "id": "GMT-8",
+    "description": "UTC+08:00",
+    "country": "Etc/GMT-8",
+    "utc": {
+      "string": "UTC+08:00",
+      "minutes": "+480",
+      "hours": "+8.0"
+    }
+  },
+  {
+    "id": "GMT-9",
+    "description": "UTC+09:00",
+    "country": "Etc/GMT-9",
+    "utc": {
+      "string": "UTC+09:00",
+      "minutes": "+540",
+      "hours": "+9.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Coordinated Universal Time",
+    "country": "Etc/GMT0",
+    "utc": {
+      "string": "UTC+00:00",
+      "minutes": "+0",
+      "hours": "+0.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Coordinated Universal Time",
+    "country": "Etc/Greenwich",
+    "utc": {
+      "string": "UTC+00:00",
+      "minutes": "+0",
+      "hours": "+0.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Coordinated Universal Time",
+    "country": "Etc/UCT",
+    "utc": {
+      "string": "UTC+00:00",
+      "minutes": "+0",
+      "hours": "+0.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Coordinated Universal Time",
+    "country": "Etc/Universal",
+    "utc": {
+      "string": "UTC+00:00",
+      "minutes": "+0",
+      "hours": "+0.0"
+    }
+  },
+  {
+    "id": "UTC",
+    "description": "Coordinated Universal Time",
+    "country": "Etc/UTC",
+    "utc": {
+      "string": "UTC+00:00",
+      "minutes": "+0",
+      "hours": "+0.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Coordinated Universal Time",
+    "country": "Etc/Zulu",
+    "utc": {
+      "string": "UTC+00:00",
+      "minutes": "+0",
+      "hours": "+0.0"
+    }
+  },
+  {
+    "id": "AMSTERDAM",
+    "description": "Europe/Amsterdam",
+    "country": "Europe/Amsterdam",
+    "utc": {
+      "string": "UTC+01:00",
+      "minutes": "+60",
+      "hours": "+1.0"
+    }
+  },
+  {
+    "id": "ANDORRA",
+    "description": "Europe/Andorra",
+    "country": "Europe/Andorra",
+    "utc": {
+      "string": "UTC+01:00",
+      "minutes": "+60",
+      "hours": "+1.0"
+    }
+  },
+  {
+    "id": "ASTRAKHAN",
+    "description": "Europe/Astrakhan",
+    "country": "Europe/Astrakhan",
+    "utc": {
+      "string": "UTC+04:00",
+      "minutes": "+240",
+      "hours": "+4.0"
+    }
+  },
+  {
+    "id": "ATHENS",
+    "description": "Europe/Athens",
+    "country": "Europe/Athens",
+    "utc": {
+      "string": "UTC+02:00",
+      "minutes": "+120",
+      "hours": "+2.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Europe/London",
+    "country": "Europe/Belfast",
+    "utc": {
+      "string": "UTC+00:00",
+      "minutes": "+0",
+      "hours": "+0.0"
+    }
+  },
+  {
+    "id": "BELGRADE",
+    "description": "Europe/Belgrade",
+    "country": "Europe/Belgrade",
+    "utc": {
+      "string": "UTC+01:00",
+      "minutes": "+60",
+      "hours": "+1.0"
+    }
+  },
+  {
+    "id": "BERLIN",
+    "description": "Europe/Berlin",
+    "country": "Europe/Berlin",
+    "utc": {
+      "string": "UTC+01:00",
+      "minutes": "+60",
+      "hours": "+1.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Europe/Prague",
+    "country": "Europe/Bratislava",
+    "utc": {
+      "string": "UTC+01:00",
+      "minutes": "+60",
+      "hours": "+1.0"
+    }
+  },
+  {
+    "id": "BRUSSELS",
+    "description": "Europe/Brussels",
+    "country": "Europe/Brussels",
+    "utc": {
+      "string": "UTC+01:00",
+      "minutes": "+60",
+      "hours": "+1.0"
+    }
+  },
+  {
+    "id": "BUCHAREST",
+    "description": "Europe/Bucharest",
+    "country": "Europe/Bucharest",
+    "utc": {
+      "string": "UTC+02:00",
+      "minutes": "+120",
+      "hours": "+2.0"
+    }
+  },
+  {
+    "id": "BUDAPEST",
+    "description": "Europe/Budapest",
+    "country": "Europe/Budapest",
+    "utc": {
+      "string": "UTC+01:00",
+      "minutes": "+60",
+      "hours": "+1.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Europe/Zurich",
+    "country": "Europe/Busingen",
+    "utc": {
+      "string": "UTC+01:00",
+      "minutes": "+60",
+      "hours": "+1.0"
+    }
+  },
+  {
+    "id": "CHISINAU",
+    "description": "Europe/Chisinau",
+    "country": "Europe/Chisinau",
+    "utc": {
+      "string": "UTC+02:00",
+      "minutes": "+120",
+      "hours": "+2.0"
+    }
+  },
+  {
+    "id": "COPENHAGEN",
+    "description": "Europe/Copenhagen",
+    "country": "Europe/Copenhagen",
+    "utc": {
+      "string": "UTC+01:00",
+      "minutes": "+60",
+      "hours": "+1.0"
+    }
+  },
+  {
+    "id": "DUBLIN",
+    "description": "Europe/Dublin",
+    "country": "Europe/Dublin",
+    "utc": {
+      "string": "UTC+01:00",
+      "minutes": "+60",
+      "hours": "+1.0"
+    }
+  },
+  {
+    "id": "GIBRALTAR",
+    "description": "Europe/Gibraltar",
+    "country": "Europe/Gibraltar",
+    "utc": {
+      "string": "UTC+01:00",
+      "minutes": "+60",
+      "hours": "+1.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Europe/London",
+    "country": "Europe/Guernsey",
+    "utc": {
+      "string": "UTC+00:00",
+      "minutes": "+0",
+      "hours": "+0.0"
+    }
+  },
+  {
+    "id": "HELSINKI",
+    "description": "Europe/Helsinki",
+    "country": "Europe/Helsinki",
+    "utc": {
+      "string": "UTC+02:00",
+      "minutes": "+120",
+      "hours": "+2.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Europe/London",
+    "country": "Europe/Isle_of_Man",
+    "utc": {
+      "string": "UTC+00:00",
+      "minutes": "+0",
+      "hours": "+0.0"
+    }
+  },
+  {
+    "id": "ISTANBUL",
+    "description": "Europe/Istanbul",
+    "country": "Europe/Istanbul",
+    "utc": {
+      "string": "UTC+03:00",
+      "minutes": "+180",
+      "hours": "+3.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Europe/London",
+    "country": "Europe/Jersey",
+    "utc": {
+      "string": "UTC+00:00",
+      "minutes": "+0",
+      "hours": "+0.0"
+    }
+  },
+  {
+    "id": "KALININGRAD",
+    "description": "Europe/Kaliningrad",
+    "country": "Europe/Kaliningrad",
+    "utc": {
+      "string": "UTC+02:00",
+      "minutes": "+120",
+      "hours": "+2.0"
+    }
+  },
+  {
+    "id": "KIEV",
+    "description": "Europe/Kiev",
+    "country": "Europe/Kiev",
+    "utc": {
+      "string": "UTC+02:00",
+      "minutes": "+120",
+      "hours": "+2.0"
+    }
+  },
+  {
+    "id": "KIROV",
+    "description": "Europe/Kirov",
+    "country": "Europe/Kirov",
+    "utc": {
+      "string": "UTC+03:00",
+      "minutes": "+180",
+      "hours": "+3.0"
+    }
+  },
+  {
+    "id": "LISBON",
+    "description": "Europe/Lisbon",
+    "country": "Europe/Lisbon",
+    "utc": {
+      "string": "UTC+00:00",
+      "minutes": "+0",
+      "hours": "+0.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Europe/Belgrade",
+    "country": "Europe/Ljubljana",
+    "utc": {
+      "string": "UTC+01:00",
+      "minutes": "+60",
+      "hours": "+1.0"
+    }
+  },
+  {
+    "id": "LONDON",
+    "description": "Europe/London",
+    "country": "Europe/London",
+    "utc": {
+      "string": "UTC+00:00",
+      "minutes": "+0",
+      "hours": "+0.0"
+    }
+  },
+  {
+    "id": "LUXEMBOURG",
+    "description": "Europe/Luxembourg",
+    "country": "Europe/Luxembourg",
+    "utc": {
+      "string": "UTC+01:00",
+      "minutes": "+60",
+      "hours": "+1.0"
+    }
+  },
+  {
+    "id": "MADRID",
+    "description": "Europe/Madrid",
+    "country": "Europe/Madrid",
+    "utc": {
+      "string": "UTC+01:00",
+      "minutes": "+60",
+      "hours": "+1.0"
+    }
+  },
+  {
+    "id": "MALTA",
+    "description": "Europe/Malta",
+    "country": "Europe/Malta",
+    "utc": {
+      "string": "UTC+01:00",
+      "minutes": "+60",
+      "hours": "+1.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Europe/Helsinki",
+    "country": "Europe/Mariehamn",
+    "utc": {
+      "string": "UTC+02:00",
+      "minutes": "+120",
+      "hours": "+2.0"
+    }
+  },
+  {
+    "id": "MINSK",
+    "description": "Europe/Minsk",
+    "country": "Europe/Minsk",
+    "utc": {
+      "string": "UTC+03:00",
+      "minutes": "+180",
+      "hours": "+3.0"
+    }
+  },
+  {
+    "id": "MONACO",
+    "description": "Europe/Monaco",
+    "country": "Europe/Monaco",
+    "utc": {
+      "string": "UTC+01:00",
+      "minutes": "+60",
+      "hours": "+1.0"
+    }
+  },
+  {
+    "id": "MOSCOW",
+    "description": "Europe/Moscow",
+    "country": "Europe/Moscow",
+    "utc": {
+      "string": "UTC+03:00",
+      "minutes": "+180",
+      "hours": "+3.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Asia/Nicosia",
+    "country": "Europe/Nicosia",
+    "utc": {
+      "string": "UTC+02:00",
+      "minutes": "+120",
+      "hours": "+2.0"
+    }
+  },
+  {
+    "id": "OSLO",
+    "description": "Europe/Oslo",
+    "country": "Europe/Oslo",
+    "utc": {
+      "string": "UTC+01:00",
+      "minutes": "+60",
+      "hours": "+1.0"
+    }
+  },
+  {
+    "id": "PARIS",
+    "description": "Europe/Paris",
+    "country": "Europe/Paris",
+    "utc": {
+      "string": "UTC+01:00",
+      "minutes": "+60",
+      "hours": "+1.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Europe/Belgrade",
+    "country": "Europe/Podgorica",
+    "utc": {
+      "string": "UTC+01:00",
+      "minutes": "+60",
+      "hours": "+1.0"
+    }
+  },
+  {
+    "id": "PRAGUE",
+    "description": "Europe/Prague",
+    "country": "Europe/Prague",
+    "utc": {
+      "string": "UTC+01:00",
+      "minutes": "+60",
+      "hours": "+1.0"
+    }
+  },
+  {
+    "id": "RIGA",
+    "description": "Europe/Riga",
+    "country": "Europe/Riga",
+    "utc": {
+      "string": "UTC+02:00",
+      "minutes": "+120",
+      "hours": "+2.0"
+    }
+  },
+  {
+    "id": "ROME",
+    "description": "Europe/Rome",
+    "country": "Europe/Rome",
+    "utc": {
+      "string": "UTC+01:00",
+      "minutes": "+60",
+      "hours": "+1.0"
+    }
+  },
+  {
+    "id": "SAMARA",
+    "description": "Europe/Samara",
+    "country": "Europe/Samara",
+    "utc": {
+      "string": "UTC+04:00",
+      "minutes": "+240",
+      "hours": "+4.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Europe/Rome",
+    "country": "Europe/San_Marino",
+    "utc": {
+      "string": "UTC+01:00",
+      "minutes": "+60",
+      "hours": "+1.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Europe/Belgrade",
+    "country": "Europe/Sarajevo",
+    "utc": {
+      "string": "UTC+01:00",
+      "minutes": "+60",
+      "hours": "+1.0"
+    }
+  },
+  {
+    "id": "SARATOV",
+    "description": "Europe/Saratov",
+    "country": "Europe/Saratov",
+    "utc": {
+      "string": "UTC+04:00",
+      "minutes": "+240",
+      "hours": "+4.0"
+    }
+  },
+  {
+    "id": "SIMFEROPOL",
+    "description": "Europe/Simferopol",
+    "country": "Europe/Simferopol",
+    "utc": {
+      "string": "UTC+03:00",
+      "minutes": "+180",
+      "hours": "+3.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Europe/Belgrade",
+    "country": "Europe/Skopje",
+    "utc": {
+      "string": "UTC+01:00",
+      "minutes": "+60",
+      "hours": "+1.0"
+    }
+  },
+  {
+    "id": "SOFIA",
+    "description": "Europe/Sofia",
+    "country": "Europe/Sofia",
+    "utc": {
+      "string": "UTC+02:00",
+      "minutes": "+120",
+      "hours": "+2.0"
+    }
+  },
+  {
+    "id": "STOCKHOLM",
+    "description": "Europe/Stockholm",
+    "country": "Europe/Stockholm",
+    "utc": {
+      "string": "UTC+01:00",
+      "minutes": "+60",
+      "hours": "+1.0"
+    }
+  },
+  {
+    "id": "TALLINN",
+    "description": "Europe/Tallinn",
+    "country": "Europe/Tallinn",
+    "utc": {
+      "string": "UTC+02:00",
+      "minutes": "+120",
+      "hours": "+2.0"
+    }
+  },
+  {
+    "id": "TIRANE",
+    "description": "Europe/Tirane",
+    "country": "Europe/Tirane",
+    "utc": {
+      "string": "UTC+01:00",
+      "minutes": "+60",
+      "hours": "+1.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Europe/Chisinau",
+    "country": "Europe/Tiraspol",
+    "utc": {
+      "string": "UTC+02:00",
+      "minutes": "+120",
+      "hours": "+2.0"
+    }
+  },
+  {
+    "id": "ULYANOVSK",
+    "description": "Europe/Ulyanovsk",
+    "country": "Europe/Ulyanovsk",
+    "utc": {
+      "string": "UTC+04:00",
+      "minutes": "+240",
+      "hours": "+4.0"
+    }
+  },
+  {
+    "id": "UZHGOROD",
+    "description": "Europe/Uzhgorod",
+    "country": "Europe/Uzhgorod",
+    "utc": {
+      "string": "UTC+02:00",
+      "minutes": "+120",
+      "hours": "+2.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Europe/Zurich",
+    "country": "Europe/Vaduz",
+    "utc": {
+      "string": "UTC+01:00",
+      "minutes": "+60",
+      "hours": "+1.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Europe/Rome",
+    "country": "Europe/Vatican",
+    "utc": {
+      "string": "UTC+01:00",
+      "minutes": "+60",
+      "hours": "+1.0"
+    }
+  },
+  {
+    "id": "VIENNA",
+    "description": "Europe/Vienna",
+    "country": "Europe/Vienna",
+    "utc": {
+      "string": "UTC+01:00",
+      "minutes": "+60",
+      "hours": "+1.0"
+    }
+  },
+  {
+    "id": "VILNIUS",
+    "description": "Europe/Vilnius",
+    "country": "Europe/Vilnius",
+    "utc": {
+      "string": "UTC+02:00",
+      "minutes": "+120",
+      "hours": "+2.0"
+    }
+  },
+  {
+    "id": "VOLGOGRAD",
+    "description": "Europe/Volgograd",
+    "country": "Europe/Volgograd",
+    "utc": {
+      "string": "UTC+03:00",
+      "minutes": "+180",
+      "hours": "+3.0"
+    }
+  },
+  {
+    "id": "WARSAW",
+    "description": "Europe/Warsaw",
+    "country": "Europe/Warsaw",
+    "utc": {
+      "string": "UTC+01:00",
+      "minutes": "+60",
+      "hours": "+1.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Europe/Belgrade",
+    "country": "Europe/Zagreb",
+    "utc": {
+      "string": "UTC+01:00",
+      "minutes": "+60",
+      "hours": "+1.0"
+    }
+  },
+  {
+    "id": "ZAPOROZHYE",
+    "description": "Europe/Zaporozhye",
+    "country": "Europe/Zaporozhye",
+    "utc": {
+      "string": "UTC+02:00",
+      "minutes": "+120",
+      "hours": "+2.0"
+    }
+  },
+  {
+    "id": "ZURICH",
+    "description": "Europe/Zurich",
+    "country": "Europe/Zurich",
+    "utc": {
+      "string": "UTC+01:00",
+      "minutes": "+60",
+      "hours": "+1.0"
+    }
+  },
+  {
+    "id": "FACTORY",
+    "description": "Default (computer science)",
+    "country": "Factory",
+    "utc": {
+      "string": "UTC+00:00",
+      "minutes": "+0",
+      "hours": "+0.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Europe/London",
+    "country": "GB",
+    "utc": {
+      "string": "UTC+00:00",
+      "minutes": "+0",
+      "hours": "+0.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Europe/London",
+    "country": "GB-Eire",
+    "utc": {
+      "string": "UTC+00:00",
+      "minutes": "+0",
+      "hours": "+0.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Coordinated Universal Time",
+    "country": "GMT",
+    "utc": {
+      "string": "UTC+00:00",
+      "minutes": "+0",
+      "hours": "+0.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Coordinated Universal Time",
+    "country": "GMT+0",
+    "utc": {
+      "string": "UTC+00:00",
+      "minutes": "+0",
+      "hours": "+0.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Coordinated Universal Time",
+    "country": "GMT-0",
+    "utc": {
+      "string": "UTC+00:00",
+      "minutes": "+0",
+      "hours": "+0.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Coordinated Universal Time",
+    "country": "GMT0",
+    "utc": {
+      "string": "UTC+00:00",
+      "minutes": "+0",
+      "hours": "+0.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Coordinated Universal Time",
+    "country": "Greenwich",
+    "utc": {
+      "string": "UTC+00:00",
+      "minutes": "+0",
+      "hours": "+0.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Asia/Hong Kong",
+    "country": "Hongkong",
+    "utc": {
+      "string": "UTC+08:00",
+      "minutes": "+480",
+      "hours": "+8.0"
+    }
+  },
+  {
+    "id": "HST",
+    "description": "Hawaiian Standard Time",
+    "country": "HST",
+    "utc": {
+      "string": "UTC−10:00",
+      "minutes": "−600",
+      "hours": "−10.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Atlantic/Reykjavik",
+    "country": "Iceland",
+    "utc": {
+      "string": "UTC+00:00",
+      "minutes": "+0",
+      "hours": "+0.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Africa/Nairobi",
+    "country": "Indian/Antananarivo",
+    "utc": {
+      "string": "UTC+03:00",
+      "minutes": "+180",
+      "hours": "+3.0"
+    }
+  },
+  {
+    "id": "CHAGOS",
+    "description": "Indian/Chagos",
+    "country": "Indian/Chagos",
+    "utc": {
+      "string": "UTC+06:00",
+      "minutes": "+360",
+      "hours": "+6.0"
+    }
+  },
+  {
+    "id": "CHRISTMAS",
+    "description": "Indian/Christmas",
+    "country": "Indian/Christmas",
+    "utc": {
+      "string": "UTC+07:00",
+      "minutes": "+420",
+      "hours": "+7.0"
+    }
+  },
+  {
+    "id": "COCOS",
+    "description": "Indian/Cocos",
+    "country": "Indian/Cocos",
+    "utc": {
+      "string": "UTC+06:30",
+      "minutes": "+390",
+      "hours": "+6.5"
+    }
+  },
+  {
+    "id": null,
+    "description": "Africa/Nairobi",
+    "country": "Indian/Comoro",
+    "utc": {
+      "string": "UTC+03:00",
+      "minutes": "+180",
+      "hours": "+3.0"
+    }
+  },
+  {
+    "id": "KERGUELEN",
+    "description": "Indian/Kerguelen",
+    "country": "Indian/Kerguelen",
+    "utc": {
+      "string": "UTC+05:00",
+      "minutes": "+300",
+      "hours": "+5.0"
+    }
+  },
+  {
+    "id": "MAHE",
+    "description": "Indian/Mahe",
+    "country": "Indian/Mahe",
+    "utc": {
+      "string": "UTC+04:00",
+      "minutes": "+240",
+      "hours": "+4.0"
+    }
+  },
+  {
+    "id": "MALDIVES",
+    "description": "Indian/Maldives",
+    "country": "Indian/Maldives",
+    "utc": {
+      "string": "UTC+05:00",
+      "minutes": "+300",
+      "hours": "+5.0"
+    }
+  },
+  {
+    "id": "MAURITIUS",
+    "description": "Indian/Mauritius",
+    "country": "Indian/Mauritius",
+    "utc": {
+      "string": "UTC+04:00",
+      "minutes": "+240",
+      "hours": "+4.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Africa/Nairobi",
+    "country": "Indian/Mayotte",
+    "utc": {
+      "string": "UTC+03:00",
+      "minutes": "+180",
+      "hours": "+3.0"
+    }
+  },
+  {
+    "id": "REUNION",
+    "description": "Indian/Reunion",
+    "country": "Indian/Reunion",
+    "utc": {
+      "string": "UTC+04:00",
+      "minutes": "+240",
+      "hours": "+4.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Asia/Tehran",
+    "country": "Iran",
+    "utc": {
+      "string": "UTC+03:30",
+      "minutes": "+210",
+      "hours": "+3.5"
+    }
+  },
+  {
+    "id": null,
+    "description": "Asia/Jerusalem",
+    "country": "Israel",
+    "utc": {
+      "string": "UTC+02:00",
+      "minutes": "+120",
+      "hours": "+2.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "America/Jamaica",
+    "country": "Jamaica",
+    "utc": {
+      "string": "UTC−05:00",
+      "minutes": "−300",
+      "hours": "−5.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Asia/Tokyo",
+    "country": "Japan",
+    "utc": {
+      "string": "UTC+09:00",
+      "minutes": "+540",
+      "hours": "+9.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Pacific/Kwajalein",
+    "country": "Kwajalein",
+    "utc": {
+      "string": "UTC+12:00",
+      "minutes": "+720",
+      "hours": "+12.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Africa/Tripoli",
+    "country": "Libya",
+    "utc": {
+      "string": "UTC+02:00",
+      "minutes": "+120",
+      "hours": "+2.0"
+    }
+  },
+  {
+    "id": "MET",
+    "description": "Central European Time",
+    "country": "MET",
+    "utc": {
+      "string": "UTC+01:00",
+      "minutes": "+60",
+      "hours": "+1.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "America/Tijuana",
+    "country": "Mexico/BajaNorte",
+    "utc": {
+      "string": "UTC−08:00",
+      "minutes": "−480",
+      "hours": "−8.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "America/Mazatlan",
+    "country": "Mexico/BajaSur",
+    "utc": {
+      "string": "UTC−07:00",
+      "minutes": "−420",
+      "hours": "−7.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "America/Mexico City",
+    "country": "Mexico/General",
+    "utc": {
+      "string": "UTC−06:00",
+      "minutes": "−360",
+      "hours": "−6.0"
+    }
+  },
+  {
+    "id": "MST",
+    "description": "Mountain Standard Time",
+    "country": "MST",
+    "utc": {
+      "string": "UTC−07:00",
+      "minutes": "−420",
+      "hours": "−7.0"
+    }
+  },
+  {
+    "id": "MST7MDT",
+    "description": "MST7MDT",
+    "country": "MST7MDT",
+    "utc": {
+      "string": "UTC−07:00",
+      "minutes": "−420",
+      "hours": "−7.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "America/Denver (page does not exist)",
+    "country": "Navajo",
+    "utc": {
+      "string": "UTC−07:00",
+      "minutes": "−420",
+      "hours": "−7.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Pacific/Auckland",
+    "country": "NZ",
+    "utc": {
+      "string": "UTC+12:00",
+      "minutes": "+720",
+      "hours": "+12.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Pacific/Chatham",
+    "country": "NZ-CHAT",
+    "utc": {
+      "string": "UTC+12:45",
+      "minutes": "+765",
+      "hours": "+12.75"
+    }
+  },
+  {
+    "id": "APIA",
+    "description": "Pacific/Apia",
+    "country": "Pacific/Apia",
+    "utc": {
+      "string": "UTC+13:00",
+      "minutes": "+780",
+      "hours": "+13.0"
+    }
+  },
+  {
+    "id": "AUCKLAND",
+    "description": "Pacific/Auckland",
+    "country": "Pacific/Auckland",
+    "utc": {
+      "string": "UTC+12:00",
+      "minutes": "+720",
+      "hours": "+12.0"
+    }
+  },
+  {
+    "id": "BOUGAINVILLE",
+    "description": "Pacific/Bougainville",
+    "country": "Pacific/Bougainville",
+    "utc": {
+      "string": "UTC+11:00",
+      "minutes": "+660",
+      "hours": "+11.0"
+    }
+  },
+  {
+    "id": "CHATHAM",
+    "description": "Pacific/Chatham",
+    "country": "Pacific/Chatham",
+    "utc": {
+      "string": "UTC+12:45",
+      "minutes": "+765",
+      "hours": "+12.75"
+    }
+  },
+  {
+    "id": "CHUUK",
+    "description": "Pacific/Chuuk",
+    "country": "Pacific/Chuuk",
+    "utc": {
+      "string": "UTC+10:00",
+      "minutes": "+600",
+      "hours": "+10.0"
+    }
+  },
+  {
+    "id": "EASTER",
+    "description": "Pacific/Easter",
+    "country": "Pacific/Easter",
+    "utc": {
+      "string": "UTC−06:00",
+      "minutes": "−360",
+      "hours": "−6.0"
+    }
+  },
+  {
+    "id": "EFATE",
+    "description": "Pacific/Efate",
+    "country": "Pacific/Efate",
+    "utc": {
+      "string": "UTC+11:00",
+      "minutes": "+660",
+      "hours": "+11.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Pacific/Enderbury",
+    "country": "Pacific/Enderbury",
+    "utc": {
+      "string": "UTC+13:00",
+      "minutes": "+780",
+      "hours": "+13.0"
+    }
+  },
+  {
+    "id": "FAKAOFO",
+    "description": "Pacific/Fakaofo",
+    "country": "Pacific/Fakaofo",
+    "utc": {
+      "string": "UTC+13:00",
+      "minutes": "+780",
+      "hours": "+13.0"
+    }
+  },
+  {
+    "id": "FIJI",
+    "description": "Pacific/Fiji",
+    "country": "Pacific/Fiji",
+    "utc": {
+      "string": "UTC+12:00",
+      "minutes": "+720",
+      "hours": "+12.0"
+    }
+  },
+  {
+    "id": "FUNAFUTI",
+    "description": "Pacific/Funafuti",
+    "country": "Pacific/Funafuti",
+    "utc": {
+      "string": "UTC+12:00",
+      "minutes": "+720",
+      "hours": "+12.0"
+    }
+  },
+  {
+    "id": "GALAPAGOS",
+    "description": "Pacific/Galapagos",
+    "country": "Pacific/Galapagos",
+    "utc": {
+      "string": "UTC−06:00",
+      "minutes": "−360",
+      "hours": "−6.0"
+    }
+  },
+  {
+    "id": "GAMBIER",
+    "description": "Pacific/Gambier",
+    "country": "Pacific/Gambier",
+    "utc": {
+      "string": "UTC−09:00",
+      "minutes": "−540",
+      "hours": "−9.0"
+    }
+  },
+  {
+    "id": "GUADALCANAL",
+    "description": "Pacific/Guadalcanal",
+    "country": "Pacific/Guadalcanal",
+    "utc": {
+      "string": "UTC+11:00",
+      "minutes": "+660",
+      "hours": "+11.0"
+    }
+  },
+  {
+    "id": "GUAM",
+    "description": "Pacific/Guam",
+    "country": "Pacific/Guam",
+    "utc": {
+      "string": "UTC+10:00",
+      "minutes": "+600",
+      "hours": "+10.0"
+    }
+  },
+  {
+    "id": "HONOLULU",
+    "description": "Pacific/Honolulu",
+    "country": "Pacific/Honolulu",
+    "utc": {
+      "string": "UTC−10:00",
+      "minutes": "−600",
+      "hours": "−10.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Pacific/Honolulu",
+    "country": "Pacific/Johnston",
+    "utc": {
+      "string": "UTC−10:00",
+      "minutes": "−600",
+      "hours": "−10.0"
+    }
+  },
+  {
+    "id": "KANTON",
+    "description": "Pacific/Kanton",
+    "country": "Pacific/Kanton",
+    "utc": {
+      "string": "UTC+13:00",
+      "minutes": "+780",
+      "hours": "+13.0"
+    }
+  },
+  {
+    "id": "KIRITIMATI",
+    "description": "Pacific/Kiritimati",
+    "country": "Pacific/Kiritimati",
+    "utc": {
+      "string": "UTC+14:00",
+      "minutes": "+840",
+      "hours": "+14.0"
+    }
+  },
+  {
+    "id": "KOSRAE",
+    "description": "Pacific/Kosrae",
+    "country": "Pacific/Kosrae",
+    "utc": {
+      "string": "UTC+11:00",
+      "minutes": "+660",
+      "hours": "+11.0"
+    }
+  },
+  {
+    "id": "KWAJALEIN",
+    "description": "Pacific/Kwajalein",
+    "country": "Pacific/Kwajalein",
+    "utc": {
+      "string": "UTC+12:00",
+      "minutes": "+720",
+      "hours": "+12.0"
+    }
+  },
+  {
+    "id": "MAJURO",
+    "description": "Pacific/Majuro",
+    "country": "Pacific/Majuro",
+    "utc": {
+      "string": "UTC+12:00",
+      "minutes": "+720",
+      "hours": "+12.0"
+    }
+  },
+  {
+    "id": "MARQUESAS",
+    "description": "Pacific/Marquesas",
+    "country": "Pacific/Marquesas",
+    "utc": {
+      "string": "UTC−09:30",
+      "minutes": "−570",
+      "hours": "−9.5"
+    }
+  },
+  {
+    "id": null,
+    "description": "Pacific/Pago Pago",
+    "country": "Pacific/Midway",
+    "utc": {
+      "string": "UTC−11:00",
+      "minutes": "−660",
+      "hours": "−11.0"
+    }
+  },
+  {
+    "id": "NAURU",
+    "description": "Pacific/Nauru",
+    "country": "Pacific/Nauru",
+    "utc": {
+      "string": "UTC+12:00",
+      "minutes": "+720",
+      "hours": "+12.0"
+    }
+  },
+  {
+    "id": "NIUE",
+    "description": "Pacific/Niue",
+    "country": "Pacific/Niue",
+    "utc": {
+      "string": "UTC−11:00",
+      "minutes": "−660",
+      "hours": "−11.0"
+    }
+  },
+  {
+    "id": "NORFOLK",
+    "description": "Pacific/Norfolk",
+    "country": "Pacific/Norfolk",
+    "utc": {
+      "string": "UTC+11:00",
+      "minutes": "+660",
+      "hours": "+11.0"
+    }
+  },
+  {
+    "id": "NOUMEA",
+    "description": "Pacific/Noumea",
+    "country": "Pacific/Noumea",
+    "utc": {
+      "string": "UTC+11:00",
+      "minutes": "+660",
+      "hours": "+11.0"
+    }
+  },
+  {
+    "id": "PAGO_PAGO",
+    "description": "Pacific/Pago Pago",
+    "country": "Pacific/Pago_Pago",
+    "utc": {
+      "string": "UTC−11:00",
+      "minutes": "−660",
+      "hours": "−11.0"
+    }
+  },
+  {
+    "id": "PALAU",
+    "description": "Pacific/Palau",
+    "country": "Pacific/Palau",
+    "utc": {
+      "string": "UTC+09:00",
+      "minutes": "+540",
+      "hours": "+9.0"
+    }
+  },
+  {
+    "id": "PITCAIRN",
+    "description": "Pacific/Pitcairn",
+    "country": "Pacific/Pitcairn",
+    "utc": {
+      "string": "UTC−08:00",
+      "minutes": "−480",
+      "hours": "−8.0"
+    }
+  },
+  {
+    "id": "POHNPEI",
+    "description": "Pacific/Pohnpei",
+    "country": "Pacific/Pohnpei",
+    "utc": {
+      "string": "UTC+11:00",
+      "minutes": "+660",
+      "hours": "+11.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Pacific/Pohnpei",
+    "country": "Pacific/Ponape",
+    "utc": {
+      "string": "UTC+11:00",
+      "minutes": "+660",
+      "hours": "+11.0"
+    }
+  },
+  {
+    "id": "PORT_MORESBY",
+    "description": "Pacific/Port Moresby",
+    "country": "Pacific/Port_Moresby",
+    "utc": {
+      "string": "UTC+10:00",
+      "minutes": "+600",
+      "hours": "+10.0"
+    }
+  },
+  {
+    "id": "RAROTONGA",
+    "description": "Pacific/Rarotonga",
+    "country": "Pacific/Rarotonga",
+    "utc": {
+      "string": "UTC−10:00",
+      "minutes": "−600",
+      "hours": "−10.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Pacific/Guam",
+    "country": "Pacific/Saipan",
+    "utc": {
+      "string": "UTC+10:00",
+      "minutes": "+600",
+      "hours": "+10.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Pacific/Pago Pago",
+    "country": "Pacific/Samoa",
+    "utc": {
+      "string": "UTC−11:00",
+      "minutes": "−660",
+      "hours": "−11.0"
+    }
+  },
+  {
+    "id": "TAHITI",
+    "description": "Pacific/Tahiti",
+    "country": "Pacific/Tahiti",
+    "utc": {
+      "string": "UTC−10:00",
+      "minutes": "−600",
+      "hours": "−10.0"
+    }
+  },
+  {
+    "id": "TARAWA",
+    "description": "Pacific/Tarawa",
+    "country": "Pacific/Tarawa",
+    "utc": {
+      "string": "UTC+12:00",
+      "minutes": "+720",
+      "hours": "+12.0"
+    }
+  },
+  {
+    "id": "TONGATAPU",
+    "description": "Pacific/Tongatapu",
+    "country": "Pacific/Tongatapu",
+    "utc": {
+      "string": "UTC+13:00",
+      "minutes": "+780",
+      "hours": "+13.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Pacific/Chuuk",
+    "country": "Pacific/Truk",
+    "utc": {
+      "string": "UTC+10:00",
+      "minutes": "+600",
+      "hours": "+10.0"
+    }
+  },
+  {
+    "id": "WAKE",
+    "description": "Pacific/Wake",
+    "country": "Pacific/Wake",
+    "utc": {
+      "string": "UTC+12:00",
+      "minutes": "+720",
+      "hours": "+12.0"
+    }
+  },
+  {
+    "id": "WALLIS",
+    "description": "Pacific/Wallis",
+    "country": "Pacific/Wallis",
+    "utc": {
+      "string": "UTC+12:00",
+      "minutes": "+720",
+      "hours": "+12.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Pacific/Chuuk",
+    "country": "Pacific/Yap",
+    "utc": {
+      "string": "UTC+10:00",
+      "minutes": "+600",
+      "hours": "+10.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Europe/Warsaw",
+    "country": "Poland",
+    "utc": {
+      "string": "UTC+01:00",
+      "minutes": "+60",
+      "hours": "+1.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Europe/Lisbon",
+    "country": "Portugal",
+    "utc": {
+      "string": "UTC+00:00",
+      "minutes": "+0",
+      "hours": "+0.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Asia/Shanghai",
+    "country": "PRC",
+    "utc": {
+      "string": "UTC+08:00",
+      "minutes": "+480",
+      "hours": "+8.0"
+    }
+  },
+  {
+    "id": "PST8PDT",
+    "description": "PST8PDT",
+    "country": "PST8PDT",
+    "utc": {
+      "string": "UTC−08:00",
+      "minutes": "−480",
+      "hours": "−8.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Asia/Taipei",
+    "country": "ROC",
+    "utc": {
+      "string": "UTC+08:00",
+      "minutes": "+480",
+      "hours": "+8.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Time in South Korea",
+    "country": "ROK",
+    "utc": {
+      "string": "UTC+09:00",
+      "minutes": "+540",
+      "hours": "+9.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Asia/Singapore",
+    "country": "Singapore",
+    "utc": {
+      "string": "UTC+08:00",
+      "minutes": "+480",
+      "hours": "+8.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Time in Turkey",
+    "country": "Turkey",
+    "utc": {
+      "string": "UTC+03:00",
+      "minutes": "+180",
+      "hours": "+3.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Coordinated Universal Time",
+    "country": "UCT",
+    "utc": {
+      "string": "UTC+00:00",
+      "minutes": "+0",
+      "hours": "+0.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Coordinated Universal Time",
+    "country": "Universal",
+    "utc": {
+      "string": "UTC+00:00",
+      "minutes": "+0",
+      "hours": "+0.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "America/Anchorage",
+    "country": "US/Alaska",
+    "utc": {
+      "string": "UTC−09:00",
+      "minutes": "−540",
+      "hours": "−9.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "America/Adak",
+    "country": "US/Aleutian",
+    "utc": {
+      "string": "UTC−10:00",
+      "minutes": "−600",
+      "hours": "−10.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Time in Arizona",
+    "country": "US/Arizona",
+    "utc": {
+      "string": "UTC−07:00",
+      "minutes": "−420",
+      "hours": "−7.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Central Time Zone",
+    "country": "US/Central",
+    "utc": {
+      "string": "UTC−06:00",
+      "minutes": "−360",
+      "hours": "−6.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Time in Indiana",
+    "country": "US/East-Indiana",
+    "utc": {
+      "string": "UTC−05:00",
+      "minutes": "−300",
+      "hours": "−5.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Time in New York",
+    "country": "US/Eastern",
+    "utc": {
+      "string": "UTC−05:00",
+      "minutes": "−300",
+      "hours": "−5.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Time in Hawaii",
+    "country": "US/Hawaii",
+    "utc": {
+      "string": "UTC−10:00",
+      "minutes": "−600",
+      "hours": "−10.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Time in Indiana",
+    "country": "US/Indiana-Starke",
+    "utc": {
+      "string": "UTC−06:00",
+      "minutes": "−360",
+      "hours": "−6.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Time in Michigan",
+    "country": "US/Michigan",
+    "utc": {
+      "string": "UTC−05:00",
+      "minutes": "−300",
+      "hours": "−5.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Mountain Time Zone",
+    "country": "US/Mountain",
+    "utc": {
+      "string": "UTC−07:00",
+      "minutes": "−420",
+      "hours": "−7.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Pacific Time Zone",
+    "country": "US/Pacific",
+    "utc": {
+      "string": "UTC−08:00",
+      "minutes": "−480",
+      "hours": "−8.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Time in Samoa",
+    "country": "US/Samoa",
+    "utc": {
+      "string": "UTC−11:00",
+      "minutes": "−660",
+      "hours": "−11.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Coordinated Universal Time",
+    "country": "UTC",
+    "utc": {
+      "string": "UTC+00:00",
+      "minutes": "+0",
+      "hours": "+0.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Moscow Time",
+    "country": "W-SU",
+    "utc": {
+      "string": "UTC+03:00",
+      "minutes": "+180",
+      "hours": "+3.0"
+    }
+  },
+  {
+    "id": "WET",
+    "description": "Western European Time",
+    "country": "WET",
+    "utc": {
+      "string": "UTC+00:00",
+      "minutes": "+0",
+      "hours": "+0.0"
+    }
+  },
+  {
+    "id": null,
+    "description": "Coordinated Universal Time",
+    "country": "Zulu",
+    "utc": {
+      "string": "UTC+00:00",
+      "minutes": "+0",
+      "hours": "+0.0"
+    }
+  }
+]
